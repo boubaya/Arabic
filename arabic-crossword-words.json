@@ -1,1 +1,38 @@
+[
+    {
+        "word": "كتاب",
+        "clue": "وحدة من المواد الدراسية تحتوي على معلومات",
+        "direction": "across",
+        "row": 0,
+        "col": 0
+    },
+    {
+        "word": "قلم",
+        "clue": "أداة تستخدم للكتابة",
+        "direction": "down",
+        "row": 0,
+        "col": 2
+    },
+    {
+        "word": "مدرسة",
+        "clue": "مكان يتعلم فيه الطلاب",
+        "direction": "across",
+        "row": 2,
+        "col": 0
+    },
+    {
+        "word": "شمس",
+        "clue": "النجم الذي يضيء نهارنا",
+        "direction": "down",
+        "row": 1,
+        "col": 4
+    },
+    {
+        "word": "سلام",
+        "clue": "تحية تستخدم للسلام",
+        "direction": "across",
+        "row": 4,
+        "col": 1
+    }
+]
 
