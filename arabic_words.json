@@ -1,20 +1,18 @@
-[
-  {
-    "arabic": "رجل",
-    "transliteration": "rajul",
-    "meaning": "man",
-    "example_sentence": "هذا رجل طويل."
-  },
-  {
-    "arabic": "كتب",
-    "transliteration": "kataba",
-    "meaning": "he wrote",
-    "example_sentence": "كتب الولد الدرس."
-  },
-  {
-    "arabic": "مدرسة",
-    "transliteration": "madrasa",
-    "meaning": "school",
-    "example_sentence": "هذه مدرسة كبيرة."
-  }
-]
+// words.json
+{
+  "words": [
+    {
+      "word": "كتاب",
+      "explanation": "مجموعة من الصفحات تحتوي على نصوص أو صور."
+    },
+    {
+      "word": "طعام",
+      "explanation": "كل ما يؤكل أو يُشرب لإمداد الجسم بالطاقة."
+    },
+    {
+      "word": "طريق",
+      "explanation": "مسار أو ممر يُستخدم للسفر أو المشي."
+    }
+    // ... add as many as you want
+  ]
+}
