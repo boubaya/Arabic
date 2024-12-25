@@ -2,11 +2,19 @@
   {
     "arabic": "رجل",
     "transliteration": "rajul",
-    "meaning": "man"
+    "meaning": "man",
+    "example_sentence": "هذا رجل طويل."
   },
   {
-    "arabic": "كتاب",
-    "transliteration": "kitāb",
-    "meaning": "book"
+    "arabic": "كتب",
+    "transliteration": "kataba",
+    "meaning": "he wrote",
+    "example_sentence": "كتب الولد الدرس."
+  },
+  {
+    "arabic": "مدرسة",
+    "transliteration": "madrasa",
+    "meaning": "school",
+    "example_sentence": "هذه مدرسة كبيرة."
   }
 ]
