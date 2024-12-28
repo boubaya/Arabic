@@ -1,18 +1,5 @@
 [
-    {
-        "word": "قلم",
-        "meaning": "pen"
-    },
-    {
-        "word": "بيت",
-        "meaning": "house"
-    },
-    {
-        "word": "سفر",
-        "meaning": "travel"
-    },
-    {
-        "word": "شمس",
-        "meaning": "sun"
-    }
+  { "word": "باب", "meaning": "door", "hint": "Something you open to enter" },
+  { "word": "بيت", "meaning": "house", "hint": "A common dwelling" }
+  ...
 ]
