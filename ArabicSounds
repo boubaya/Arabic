@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html  lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arabic Letter Input</title>
+    <style>
+body {
+    font-family: Tajawal, sans-serif;
+    font-feature-settings: 'liga';
+    direction: rtl;
+    text-align: right;
+}
+        .letter-button:hover, .listen-button:hover, .reset-button:hover {
+            background-color: #990033;
+            color: white;
+        }
+        .letter-button {
+           font-family: Tajawal, sans-serif;
+           padding: 10px 15px;
+            font-size: 24px;
+            cursor: pointer;
+            margin: 5px;
+        }
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f1f1f1;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+        .dropdown-content div {
+            padding: 10px 15px;
+            cursor: pointer;
+        }
+        .dropdown-content div:hover {
+            background-color: #ddd;
+        }
+        .dropdown {
+            width: 50px; /* Set the width of the container */
+            position: relative;
+            display: inline-block;
+        }
+        .letter-button, .dropdown-content {
+            width: 100%;
+        }
+        .letter-button, .listen-button, .reset-button {
+            font-weight: bold;
+}
+.display-area {
+    margin-top: 20px;
+    padding: 10px;
+    border: 0px solid #000;
+    font-size: 48px; /* Consider using a consistent size */
+    min-height: 50px;
+    text-align: right; /* Align text to the right */
+    white-space: pre-wrap; /* Maintain whitespace for rendering */
+    direction: rtl; /* Right-to-left for Arabic */
+    unicode-bidi: embed; /* Ensures correct shaping of text */
+    font-family: Tajawal, sans-serif;
+    font-feature-settings: 'rlig' 'liga' 'kern'; /* Enable ligatures */
+    -webkit-font-feature-settings: 'rlig' 'liga' 'kern'; /* Webkit-specific font feature settings */
+    text-rendering: optimizeLegibility; /* Optimize text rendering */
+}
+
+        .listen-button, .reset-button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 24px;
+            cursor: pointer;
+            margin-right: 10px;
+        }
+        .highlighted {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+
+<div id="input-area">
+    <div class="dropdown">
+        <button class="letter-button">أ</button>
+        <div class="dropdown-content">
+            <div data-letter="أَ" data-sound="https://example.com/sounds/a-fatha.mp3">أَ</div>
+            <div data-letter="أُ" data-sound="https://example.com/sounds/a-damma.mp3">أُ</div>
+            <div data-letter="إِ" data-sound="https://example.com/sounds/a-kasra.mp3">إِ</div>
+            <div data-letter="إْ" data-sound="https://example.com/sounds/a-sukun.mp3">إْ</div>
+            <div data-letter="آ" data-sound="https://example.com/sounds/aa.mp3">آ</div>
+            <div data-letter="أو" data-sound="https://example.com/sounds/aw.mp3">أو</div>
+            <div data-letter="أي" data-sound="https://example.com/sounds/ay.mp3">أي</div>
+        </div>
+    </div>
+
+    <div class="dropdown">
+        <button class="letter-button">ب</button>
+        <div class="dropdown-content">
+            <div data-letter="بَ" data-sound="https://od.lk/d/MTZfMTM4MTQ2MjAyXw/%D8%A8-fatha.mp3">بَ</div>
+            <div data-letter="بُ" data-sound="https://od.lk/d/MTZfMTM4MTQ2MjAzXw/%D8%A8-damma.mp3">بُ</div>
+            <div data-letter="بِ" data-sound="https://od.lk/d/MTZfMTM4MTQ2MjA1Xw/%D8%A8-kasra.mp3">بِ</div>
+            <div data-letter="بْ" data-sound="https://example.com/sounds/bs.mp3">بْ</div>
+            <div data-letter="با" data-sound="https://od.lk/d/MTZfMTM4MTcxNTY5Xw/%D8%A8-alif.mp3">&#x0628;&#x0627;</div>
+            <div data-letter="بو" data-sound="https://example.com/sounds/boo.mp3">بو</div>
+            <div data-letter="بي" data-sound="https://example.com/sounds/bee.mp3">بي</div>
+        </div>
+    </div>
+
+    <div class="dropdown">
+        <button class="letter-button">ت</button>
+        <div class="dropdown-content">
+            <div data-letter="تَ" data-sound="https://example.com/sounds/ta.mp3">تَ</div>
+            <div data-letter="تُ" data-sound="https://example.com/sounds/tu.mp3">تُ</div>
+            <div data-letter="تِ" data-sound="https://example.com/sounds/ti.mp3">تِ</div>
+            <div data-letter="تْ" data-sound="https://od.lk/d/MTZfMTM4MTcxNTcxXw/%D8%AA-sukun.mp3">&#x062A;&#x0652;</div>
+            <div data-letter="تا" data-sound="https://example.com/sounds/taa.mp3">تا</div>
+            <div data-letter="تو" data-sound="https://example.com/sounds/too.mp3">تو</div>
+            <div data-letter="تي" data-sound="https://example.com/sounds/tee.mp3">تي</div>
+        </div>
+    </div>
+
+    <div class="dropdown">
+        <button class="letter-button">ث</button>
+        <div class="dropdown-content">
+            <div data-letter="ثَ" data-sound="https://od.lk/d/MTZfMTM4MTcxNTcyXw/%D8%AB-fatha.mp3">&#x062B;&#x064E;</div>
+            <div data-letter="ثُ" data-sound="https://example.com/sounds/thu.mp3">ثُ</div>
+            <div data-letter="ثِ" data-sound="https://example.com/sounds/thi.mp3">ثِ</div>
+            <div data-letter="ثْ" data-sound="https://example.com/sounds/ths.mp3">ثْ</div>
+            <div data-letter="ثا" data-sound="https://example.com/sounds/thaa.mp3">ثا</div>
+            <div data-letter="ثو" data-sound="https://example.com/sounds/thoo.mp3">ثو</div>
+            <div data-letter="ثي" data-sound="https://example.com/sounds/thee.mp3">ثي</div>
+        </div>
+    </div>
+</div>
+
+<div class="display-area" id="display-area"></div>
+<button class="listen-button" id="listen-button">Listen</button>
+<button class="reset-button" id="reset-button">Reset</button>
+
+<script>
+    // Toggle dropdown display and close others
+    document.querySelectorAll('.letter-button').forEach(button => {
+        button.addEventListener('click', (event) => {
+            const dropdown = button.nextElementSibling;
+            const allDropdowns = document.querySelectorAll('.dropdown-content');
+            allDropdowns.forEach(d => {
+                if (d !== dropdown) {
+                    d.style.display = 'none';
+                }
+            });
+            dropdown.style.display = dropdown.style.display === 'block' ? 'none' : 'block';
+            event.stopPropagation(); // Stop the event from bubbling up
+        });
+    });
+
+    // Hide dropdown when mouse leaves the dropdown or button
+    document.querySelectorAll('.dropdown').forEach(dropdown => {
+        dropdown.addEventListener('mouseleave', () => {
+            const dropdownContent = dropdown.querySelector('.dropdown-content');
+            dropdownContent.style.display = 'none';
+        });
+    });
+
+    // Handle hover and click events on dropdown items
+    document.querySelectorAll('.dropdown-content div').forEach(item => {
+        item.addEventListener('mouseover', () => {
+            const sound = new Audio(item.dataset.sound);
+            sound.play();
+        });
+        item.addEventListener('click', () => {
+            const displayArea = document.getElementById('display-area');
+            const soundData = item.dataset.sound;
+            const letter = item.dataset.letter;
+
+            // Store both letter and corresponding sound in the display area
+            displayArea.innerHTML += `<span data-sound="${soundData}">${letter}</span>`;
+        });
+    });
+
+    // Listen button functionality
+    document.getElementById('listen-button').addEventListener('click', () => {
+        const displayArea = document.getElementById('display-area');
+        const spans = displayArea.querySelectorAll('span');
+        let index = 0;
+
+        function playNext() {
+            if (index < spans.length) {
+                const currentSpan = spans[index];
+                currentSpan.classList.add('highlighted'); // Highlight the current letter
+
+                const sound = new Audio(currentSpan.dataset.sound);
+                sound.play();
+
+                sound.onended = () => {
+                    currentSpan.classList.remove('highlighted'); // Remove highlight after sound ends
+                    index++;
+                    playNext(); // Play the next sound
+                };
+            }
+        }
+
+        playNext(); // Start playing the first sound
+    });
+
+    // Reset button functionality
+    document.getElementById('reset-button').addEventListener('click', () => {
+        const displayArea = document.getElementById('display-area');
+        displayArea.innerHTML = ''; // Clear the display area
+    });
+</script>
+
+</body>
+</html>
