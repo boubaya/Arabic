@@ -1,0 +1,24 @@
+[
+  {
+    "question": "What is the Arabic word for 'House'?",
+    "image": "https://example.com/images/house.jpg",
+    "audio": "https://example.com/audio/house.mp3",
+    "answers": [
+      { "text": "بيت (Bayt)", "correct": true },
+      { "text": "كتاب (Kitab)", "correct": false },
+      { "text": "قلم (Qalam)", "correct": false },
+      { "text": "مدرسة (Madrasa)", "correct": false }
+    ]
+  },
+  {
+    "question": "How do you say 'Hello' in Arabic?",
+    "image": null,
+    "audio": "https://example.com/audio/hello.mp3",
+    "answers": [
+      { "text": "شكراً (Shukran)", "correct": false },
+      { "text": "مرحبا (Marhaba)", "correct": true },
+      { "text": "سلام (Salam)", "correct": false },
+      { "text": "وداعاً (Wada'an)", "correct": false }
+    ]
+  }
+]
