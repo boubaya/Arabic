@@ -1,0 +1,4 @@
+ب|https://example.com/audio/ba.mp3
+ت|https://example.com/audio/ta.mp3
+ا|https://example.com/audio/alif.mp3
+ل|https://example.com/audio/lam.mp3
