@@ -4,3 +4,5 @@
 جامِعَة|https://example.com/audio/j.mp3
 رَبيع|https://example.com/audio/r.mp3
 أُسْتاذ|https://example.com/audio/u.mp3
+حافِلَة|https://example.com/audio/u.mp3
+أَقْلام|https://example.com/audio/u.mp3
