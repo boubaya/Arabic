@@ -2,3 +2,6 @@
 كِتاب|https://github.com/boubaya/ArabicAlphabet/raw/refs/heads/main/%D8%A8%D8%A7.mp3
 مَدْرَسَة|https://example.com/audio/madrasa.mp3
 باب|https://example.com/audio/bab.mp3
+جامِعَة|https://example.com/audio/j.mp3
+رَبيع|https://example.com/audio/r.mp3
+أُسْتاذ|https://example.com/audio/u.mp3
