@@ -1,4 +1,4 @@
-َب|https://github.com/boubaya/ArabicAlphabet/raw/refs/heads/main/%D8%A8%D8%A7.mp3
+با|https://github.com/boubaya/ArabicAlphabet/raw/refs/heads/main/%D8%A8%D8%A7.mp3
 ت|https://example.com/audio/ta.mp3
 ا|https://example.com/audio/alif.mp3
 ل|https://example.com/audio/lam.mp3
