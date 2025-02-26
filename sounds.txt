@@ -5,7 +5,6 @@
 بَ|https://example.com/audio/.mp3
 كِ|https://example.com/audio/.mp3
 تا|https://example.com/audio/.mp3
-ب|https://example.com/audio/.mp3
 مَ|https://example.com/audio/.mp3
 دْ|https://example.com/audio/.mp3
 رَ|https://example.com/audio/.mp3
