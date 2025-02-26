@@ -1,3 +1,4 @@
+اِ|https://example.com/audio/.mp3
 أَ|https://example.com/audio/.mp3
 أُ|https://example.com/audio/.mp3
 إِ|https://example.com/audio/.mp3
