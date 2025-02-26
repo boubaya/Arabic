@@ -10,3 +10,4 @@
 رَ|https://example.com/audio/.mp3
 سَ|https://example.com/audio/.mp3
 ة|https://example.com/audio/.mp3
+بي|https://example.com/audio/.mp3
