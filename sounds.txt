@@ -565,5 +565,11 @@
 يٌّ|https://example.com/audio/.mp3
 يٌّ|https://example.com/audio/.mp3
 يّ|https://example.com/audio/.mp3
-ئ|https://example.com/audio/.mp3
-ِئ|https://example.com/audio/.mp3
+َئ|https://example.com/audio/.mp3
+ُِئ|https://example.com/audio/.mp3
+ِِئ|https://example.com/audio/.mp3
+ْئ|https://example.com/audio/.mp3
+ًئ|https://example.com/audio/.mp3
+ٌئ|https://example.com/audio/.mp3
+ٍِئ|https://example.com/audio/.mp3
+
