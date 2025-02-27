@@ -1,7 +1,7 @@
 كِتاب|https://example.com/audio/kitab.mp3
 قَلَم|https://example.com/audio/qalam.mp3
 بَيْت|https://example.com/audio/bayt.mp3
-مَدْرَسَة|https://example.com/audio/madrasa.mp3
+مَدْرَسَة|https://github.com/boubaya/ArabicAudioWords/raw/refs/heads/main/madrasa.mp3
 جامِعَة|https://example.com/audio/jamia.mp3
 باب|https://example.com/audio/bab.mp3
 نافِذَة|https://example.com/audio/nafitha.mp3
