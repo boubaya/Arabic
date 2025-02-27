@@ -18,6 +18,7 @@
 ءً|https://example.com/audio/.mp3
 ءٌ|https://example.com/audio/.mp3
 ءٍ|https://example.com/audio/.mp3
+ءّ|https://example.com/audio/.mp3
 بَ|https://example.com/audio/.mp3
 بُ|https://example.com/audio/.mp3
 بِ|https://example.com/audio/.mp3
@@ -37,6 +38,7 @@
 بًّا|https://example.com/audio/.mp3
 بٌّ|https://example.com/audio/.mp3
 بٍّ|https://example.com/audio/.mp3
+بّ|https://example.com/audio/.mp3
 تَ|https://example.com/audio/.mp3
 تُ|https://example.com/audio/.mp3
 تِ|https://example.com/audio/.mp3
@@ -56,6 +58,7 @@
 تًّا|https://example.com/audio/.mp3
 تٌّ|https://example.com/audio/.mp3
 تٍّ|https://example.com/audio/.mp3
+تّ|https://example.com/audio/.mp3
 ثَ|https://example.com/audio/.mp3
 ثُ|https://example.com/audio/.mp3
 ثِ|https://example.com/audio/.mp3
@@ -75,6 +78,7 @@
 ثًّا|https://example.com/audio/.mp3
 ثٌّ|https://example.com/audio/.mp3
 ثٍّ|https://example.com/audio/.mp3
+ثّ|https://example.com/audio/.mp3
 جَ|https://example.com/audio/.mp3
 جُ|https://example.com/audio/.mp3
 جِ|https://example.com/audio/.mp3
@@ -94,6 +98,7 @@
 جًّا|https://example.com/audio/.mp3
 جٌّ|https://example.com/audio/.mp3
 جٍّ|https://example.com/audio/.mp3
+جّ|https://example.com/audio/.mp3
 حَ|https://example.com/audio/.mp3
 حُ|https://example.com/audio/.mp3
 حِ|https://example.com/audio/.mp3
@@ -113,6 +118,7 @@
 حًّا|https://example.com/audio/.mp3
 حٌّ|https://example.com/audio/.mp3
 حٍّ|https://example.com/audio/.mp3
+حّ|https://example.com/audio/.mp3
 خَ|https://example.com/audio/.mp3
 خُ|https://example.com/audio/.mp3
 خِ|https://example.com/audio/.mp3
@@ -132,6 +138,7 @@
 خًّا|https://example.com/audio/.mp3
 خٌّ|https://example.com/audio/.mp3
 خٍّ|https://example.com/audio/.mp3
+خّ|https://example.com/audio/.mp3
 دَ|https://example.com/audio/.mp3
 دُ|https://example.com/audio/.mp3
 دِ|https://example.com/audio/.mp3
@@ -151,6 +158,7 @@
 دًّا|https://example.com/audio/.mp3
 دٌّ|https://example.com/audio/.mp3
 دٍّ|https://example.com/audio/.mp3
+دّ|https://example.com/audio/.mp3
 ذَ|https://example.com/audio/.mp3
 ذُ|https://example.com/audio/.mp3
 ذِ|https://example.com/audio/.mp3
@@ -170,6 +178,7 @@
 ذًّا|https://example.com/audio/.mp3
 ذٌّ|https://example.com/audio/.mp3
 ذٍّ|https://example.com/audio/.mp3
+ذّ|https://example.com/audio/.mp3
 رَ|https://example.com/audio/.mp3
 رُ|https://example.com/audio/.mp3
 رِ|https://example.com/audio/.mp3
@@ -189,6 +198,7 @@
 رًّا|https://example.com/audio/.mp3
 رٌّ|https://example.com/audio/.mp3
 رٍّ|https://example.com/audio/.mp3
+رّ|https://example.com/audio/.mp3
 زَ|https://example.com/audio/.mp3
 زُ|https://example.com/audio/.mp3
 زِ|https://example.com/audio/.mp3
@@ -208,6 +218,7 @@
 زًّا|https://example.com/audio/.mp3
 زٌّ|https://example.com/audio/.mp3
 زٍّ|https://example.com/audio/.mp3
+زّ|https://example.com/audio/.mp3
 سَ|https://example.com/audio/.mp3
 سُ|https://example.com/audio/.mp3
 سِ|https://example.com/audio/.mp3
@@ -227,6 +238,7 @@
 سًّا|https://example.com/audio/.mp3
 سٌّ|https://example.com/audio/.mp3
 سٍّ|https://example.com/audio/.mp3
+سّ|https://example.com/audio/.mp3
 شَ|https://example.com/audio/.mp3
 شُ|https://example.com/audio/.mp3
 شِ|https://example.com/audio/.mp3
@@ -246,6 +258,7 @@
 شًّا|https://example.com/audio/.mp3
 شٌّ|https://example.com/audio/.mp3
 شٍّ|https://example.com/audio/.mp3
+شّ|https://example.com/audio/.mp3
 صَ|https://example.com/audio/.mp3
 صُ|https://example.com/audio/.mp3
 صِ|https://example.com/audio/.mp3
@@ -265,6 +278,7 @@
 صًّا|https://example.com/audio/.mp3
 صٌّ|https://example.com/audio/.mp3
 صٍّ|https://example.com/audio/.mp3
+صّ|https://example.com/audio/.mp3
 ضَ|https://example.com/audio/.mp3
 ضُ|https://example.com/audio/.mp3
 ضِ|https://example.com/audio/.mp3
@@ -284,6 +298,7 @@
 ضًّا|https://example.com/audio/.mp3
 ضٌّ|https://example.com/audio/.mp3
 ضٍّ|https://example.com/audio/.mp3
+ضّ|https://example.com/audio/.mp3
 طَ|https://example.com/audio/.mp3
 طُ|https://example.com/audio/.mp3
 طِ|https://example.com/audio/.mp3
@@ -303,6 +318,7 @@
 طًّا|https://example.com/audio/.mp3
 طٌّ|https://example.com/audio/.mp3
 طٍّ|https://example.com/audio/.mp3
+طّ|https://example.com/audio/.mp3
 ظَ|https://example.com/audio/.mp3
 ظُ|https://example.com/audio/.mp3
 ظِ|https://example.com/audio/.mp3
@@ -322,6 +338,7 @@
 ظًّا|https://example.com/audio/.mp3
 ظٌّ|https://example.com/audio/.mp3
 ظٍّ|https://example.com/audio/.mp3
+ظّ|https://example.com/audio/.mp3
 عَ|https://example.com/audio/.mp3
 عُ|https://example.com/audio/.mp3
 عِ|https://example.com/audio/.mp3
@@ -332,6 +349,7 @@
 عًا|https://example.com/audio/.mp3
 عٌ|https://example.com/audio/.mp3
 عٍ|https://example.com/audio/.mp3
+عّ|https://example.com/audio/.mp3
 عَّ|https://example.com/audio/.mp3
 عُّ|https://example.com/audio/.mp3
 عِّ|https://example.com/audio/.mp3
@@ -360,6 +378,7 @@
 غًّا|https://example.com/audio/.mp3
 غٌّ|https://example.com/audio/.mp3
 غٍّ|https://example.com/audio/.mp3
+غّ|https://example.com/audio/.mp3
 فَ|https://example.com/audio/.mp3
 فُ|https://example.com/audio/.mp3
 فِ|https://example.com/audio/.mp3
@@ -379,6 +398,7 @@
 فًّا|https://example.com/audio/.mp3
 فٌّ|https://example.com/audio/.mp3
 فٍّ|https://example.com/audio/.mp3
+فّ|https://example.com/audio/.mp3
 قَ|https://example.com/audio/.mp3
 قُ|https://example.com/audio/.mp3
 قِ|https://example.com/audio/.mp3
@@ -398,6 +418,7 @@
 قًّا|https://example.com/audio/.mp3
 قٌّ|https://example.com/audio/.mp3
 قٍّ|https://example.com/audio/.mp3
+قّ|https://example.com/audio/.mp3
 كَ|https://example.com/audio/.mp3
 كُ|https://example.com/audio/.mp3
 كِ|https://example.com/audio/.mp3
@@ -417,6 +438,7 @@
 كًّا|https://example.com/audio/.mp3
 كٌّ|https://example.com/audio/.mp3
 كٍّ|https://example.com/audio/.mp3
+كّ|https://example.com/audio/.mp3
 لَ|https://example.com/audio/.mp3
 لُ|https://example.com/audio/.mp3
 لِ|https://example.com/audio/.mp3
@@ -436,6 +458,7 @@
 لًّا|https://example.com/audio/.mp3
 لٌّ|https://example.com/audio/.mp3
 لٍّ|https://example.com/audio/.mp3
+لّ|https://example.com/audio/.mp3
 مَ|https://example.com/audio/.mp3
 مُ|https://example.com/audio/.mp3
 مِ|https://example.com/audio/.mp3
@@ -455,6 +478,7 @@
 مًّا|https://example.com/audio/.mp3
 مٌّ|https://example.com/audio/.mp3
 مٍّ|https://example.com/audio/.mp3
+مّ|https://example.com/audio/.mp3
 نَ|https://example.com/audio/.mp3
 نُ|https://example.com/audio/.mp3
 نِ|https://example.com/audio/.mp3
@@ -474,6 +498,7 @@
 نًّا|https://example.com/audio/.mp3
 نٌّ|https://example.com/audio/.mp3
 نٍّ|https://example.com/audio/.mp3
+نّ|https://example.com/audio/.mp3
 هَ|https://example.com/audio/.mp3
 هُ|https://example.com/audio/.mp3
 هِ|https://example.com/audio/.mp3
@@ -493,6 +518,7 @@
 هًّا|https://example.com/audio/.mp3
 هٌّ|https://example.com/audio/.mp3
 هٍّ|https://example.com/audio/.mp3
+هّ|https://example.com/audio/.mp3
 وَ|https://example.com/audio/.mp3
 وُ|https://example.com/audio/.mp3
 وِ|https://example.com/audio/.mp3
@@ -518,6 +544,7 @@
 ْؤ|https://example.com/audio/.mp3
 ؤا|https://example.com/audio/.mp3
 ؤو|https://example.com/audio/.mp3
+وّ|https://example.com/audio/.mp3
 يَ|https://example.com/audio/.mp3
 يُ|https://example.com/audio/.mp3
 يِ|https://example.com/audio/.mp3
@@ -540,4 +567,3 @@
 يّ|https://example.com/audio/.mp3
 ئ|https://example.com/audio/.mp3
 ِئ|https://example.com/audio/.mp3
-
