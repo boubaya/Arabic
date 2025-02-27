@@ -530,5 +530,6 @@
 يّي|https://example.com/audio/.mp3
 يًّا|https://example.com/audio/.mp3
 يٌّ|https://example.com/audio/.mp3
-يٍّ|https://example.com/audio/.mp3
+يٌّ|https://example.com/audio/.mp3
+يّ|https://example.com/audio/.mp3
 
