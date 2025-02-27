@@ -29,5 +29,4 @@
             { "icon": "fas fa-arrow-right", "text": "点击此处进入下一个单词。" }
         ]
     }
-    // Add more languages as needed
 }
