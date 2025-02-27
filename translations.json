@@ -1,0 +1,33 @@
+{
+    "en": {
+        "title": "How to Use",
+        "steps": [
+            { "icon": "fas fa-mouse-pointer", "text": "Click on the Arabic letters to build the word displayed in the drop area." },
+            { "icon": "fas fa-volume-up", "text": "Use this button to listen to the correct pronunciation of the word." },
+            { "icon": "fas fa-check", "text": "Click here to check if your word is correct." },
+            { "icon": "fas fa-undo", "text": "Use this button to reset the current word and try again." },
+            { "icon": "fas fa-arrow-right", "text": "Click here to move to the next word." }
+        ]
+    },
+    "es": {
+        "title": "Cómo Usar",
+        "steps": [
+            { "icon": "fas fa-mouse-pointer", "text": "Haz clic en las letras árabes para construir la palabra mostrada en el área de soltar." },
+            { "icon": "fas fa-volume-up", "text": "Usa este botón para escuchar la pronunciación correcta de la palabra." },
+            { "icon": "fas fa-check", "text": "Haz clic aquí para verificar si tu palabra es correcta." },
+            { "icon": "fas fa-undo", "text": "Usa este botón para reiniciar la palabra actual e intentar de nuevo." },
+            { "icon": "fas fa-arrow-right", "text": "Haz clic aquí para pasar a la siguiente palabra." }
+        ]
+    },
+    "zh": {
+        "title": "如何使用",
+        "steps": [
+            { "icon": "fas fa-mouse-pointer", "text": "点击阿拉伯字母以构建显示在放置区域中的单词。" },
+            { "icon": "fas fa-volume-up", "text": "使用此按钮听取单词的正确发音。" },
+            { "icon": "fas fa-check", "text": "点击此处检查您的单词是否正确。" },
+            { "icon": "fas fa-undo", "text": "使用此按钮重置当前单词并重试。" },
+            { "icon": "fas fa-arrow-right", "text": "点击此处进入下一个单词。" }
+        ]
+    }
+    // Add more languages as needed
+}
