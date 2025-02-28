@@ -7,7 +7,7 @@
 نافِذَة|https://example.com/audio/nafitha.mp3
 سَيّارَة|https://example.com/audio/sayyara.mp3
 دَرّاجَة|https://example.com/audio/daraja.mp3
-طائِرَة|https://example.com/audio/taira.mp3
+طائِـرَة|https://example.com/audio/taira.mp3
 قِطّ|https://example.com/audio/qitt.mp3
 كَلْب|https://example.com/audio/kalb.mp3
 حِصان|https://example.com/audio/hisan.mp3
