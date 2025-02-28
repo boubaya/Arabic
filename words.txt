@@ -137,7 +137,7 @@
 مَدِينَة|https://example.com/audio/madina.mp3
 قَرْيَة|https://example.com/audio/qarya.mp3
 شارِع|https://example.com/audio/shari.mp3
-حَدِيقَة|https://example.com/audio/hadiqa.mp3
+حَديقَة|https://example.com/audio/hadiqa.mp3
 مَلْعَب|https://example.com/audio/malab.mp3
 مَكْتَبَة|https://example.com/audio/maktaba.mp3
 مُسْتَشْفى|https://example.com/audio/mustashfa.mp3
