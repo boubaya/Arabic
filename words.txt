@@ -120,7 +120,7 @@
 قُبَّعَة|https://example.com/audio/qubba.mp3
 مِعْطَف|https://example.com/audio/mitaf.mp3
 شال|https://example.com/audio/shal.mp3
-حَقِيبَة|https://example.com/audio/haqiba.mp3
+حَقيبَة|https://example.com/audio/haqiba.mp3
 خاتَم|https://example.com/audio/khatham.mp3
 قِلادَة|https://example.com/audio/qilada.mp3
 أُذُن|https://example.com/audio/udhun.mp3
