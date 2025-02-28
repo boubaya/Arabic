@@ -572,4 +572,7 @@
 ًئ|https://example.com/audio/.mp3
 ٌئ|https://example.com/audio/.mp3
 ٍِئ|https://example.com/audio/.mp3
-
+ئَـ|https://example.com/audio/.mp3
+ئُـ|https://example.com/audio/.mp3
+ئِـ|https://example.com/audio/.mp3
+ئْـ|https://example.com/audio/.mp3
