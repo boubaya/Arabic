@@ -134,7 +134,7 @@
 سوق|https://example.com/audio/souq.mp3
 مَحَطَّة|https://example.com/audio/mahatta.mp3
 مَطار|https://example.com/audio/matar.mp3
-مَدِينَة|https://example.com/audio/madina.mp3
+مَدينَة|https://example.com/audio/madina.mp3
 قَرْيَة|https://example.com/audio/qarya.mp3
 شارِع|https://example.com/audio/shari.mp3
 حَديقَة|https://example.com/audio/hadiqa.mp3
