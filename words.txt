@@ -5,7 +5,6 @@
 كِتابُها|https://example.com/audio/kitabuha.mp3
 ْكِتابُهُم|https://example.com/audio/kitabuhom.mp3
 كِتابُهُنَّ|https://example.com/audio/kitabuhona.mp3
-
 قَلَم|https://example.com/audio/qalam.mp3
 بَيْت|https://example.com/audio/bayt.mp3
 مَدْرَسَة|https://github.com/boubaya/ArabicAudioWords/raw/refs/heads/main/madrasa.mp3
