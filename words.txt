@@ -150,7 +150,7 @@
 غابَة|https://example.com/audio/ghaba.mp3
 صَحْراء|https://example.com/audio/sahra.mp3
 جَزيرَة|https://example.com/audio/jazira.mp3
-بَرْكان|https://example.com/audio/barqan.mp3
+بُرْكان|https://example.com/audio/barqan.mp3
 سَماء|https://example.com/audio/samaa.mp3
 نَجْم|https://example.com/audio/najm.mp3
 قَوْس|https://example.com/audio/qaws.mp3
