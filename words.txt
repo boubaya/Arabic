@@ -32,7 +32,7 @@
 صَديقَة|https://example.com/audio/sadiqa.mp3
 جار|https://example.com/audio/jar.mp3
 جارَة|https://example.com/audio/jara.mp3
-طَبِيب|https://example.com/audio/tabib.mp3
+طَبيب|https://example.com/audio/tabib.mp3
 مُمَرِّض|https://example.com/audio/mumarrid.mp3
 مُمَرِّضَة|https://example.com/audio/mumarrida.mp3
 عامِل|https://example.com/audio/amil.mp3
