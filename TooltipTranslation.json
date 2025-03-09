@@ -1,0 +1,202 @@
+{
+    "en": {
+        "title": "How to Use",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Hear the pronunciation." },
+            { "icon": "fas fa-mouse-pointer", "text": "Click letters to form the word." },
+            { "icon": "fas fa-check", "text": "Check if correct." },
+            { "icon": "fas fa-undo", "text": "Reset to try again." },
+            { "icon": "fas fa-arrow-right", "text": "Move to the next word." }
+        ]
+    },
+    "zh": {
+        "title": "如何使用",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "听发音。" },
+            { "icon": "fas fa-mouse-pointer", "text": "点击字母组成单词。" },
+            { "icon": "fas fa-check", "text": "检查是否正确。" },
+            { "icon": "fas fa-undo", "text": "重置重试。" },
+            { "icon": "fas fa-arrow-right", "text": "转到下一个单词。" }
+        ]
+    },
+    "hi": {
+        "title": "कैसे उपयोग करें",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "उच्चारण सुनें।" },
+            { "icon": "fas fa-mouse-pointer", "text": "शब्द बनाने के लिए अक्षरों पर क्लिक करें।" },
+            { "icon": "fas fa-check", "text": "जांचें कि सही है या नहीं।" },
+            { "icon": "fas fa-undo", "text": "रीसेट करके फिर से कोशिश करें।" },
+            { "icon": "fas fa-arrow-right", "text": "अगले शब्द पर जाएं।" }
+        ]
+    },
+    "es": {
+        "title": "Cómo usar",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Escuchar la pronunciación." },
+            { "icon": "fas fa-mouse-pointer", "text": "Haz clic en las letras para formar la palabra." },
+            { "icon": "fas fa-check", "text": "Verificar si es correcto." },
+            { "icon": "fas fa-undo", "text": "Reiniciar para intentar de nuevo." },
+            { "icon": "fas fa-arrow-right", "text": "Pasar a la siguiente palabra." }
+        ]
+    },
+    "fr": {
+        "title": "Comment utiliser",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Écouter la prononciation." },
+            { "icon": "fas fa-mouse-pointer", "text": "Cliquez sur les lettres pour formar le mot." },
+            { "icon": "fas fa-check", "text": "Vérifier si c'est correct." },
+            { "icon": "fas fa-undo", "text": "Réinitialiser pour réessayer." },
+            { "icon": "fas fa-arrow-right", "text": "Passer au mot suivant." }
+        ]
+    },
+    "ar": {
+        "title": "كيفية الاستخدام",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "استمع إلى النطق." },
+            { "icon": "fas fa-mouse-pointer", "text": "انقر على الحروف لتكوين الكلمة." },
+            { "icon": "fas fa-check", "text": "تحقق من صحتها." },
+            { "icon": "fas fa-undo", "text": "إعادة المحاولة." },
+            { "icon": "fas fa-arrow-right", "text": "انتقل إلى الكلمة التالية." }
+        ]
+    },
+    "bn": {
+        "title": "কিভাবে ব্যবহার করবেন",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "উচ্চারণ শুনুন।" },
+            { "icon": "fas fa-mouse-pointer", "text": "শব্দ তৈরি করতে অক্ষরে ক্লিক করুন।" },
+            { "icon": "fas fa-check", "text": "সঠিক কিনা পরীক্ষা করুন।" },
+            { "icon": "fas fa-undo", "text": "পুনরায় চেষ্টা করুন।" },
+            { "icon": "fas fa-arrow-right", "text": "পরবর্তী শব্দে যান।" }
+        ]
+    },
+    "ru": {
+        "title": "Как использовать",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Прослушать произношение." },
+            { "icon": "fas fa-mouse-pointer", "text": "Нажмите на буквы, чтобы составить слово." },
+            { "icon": "fas fa-check", "text": "Проверить правильность." },
+            { "icon": "fas fa-undo", "text": "Сбросить и попробовать снова." },
+            { "icon": "fas fa-arrow-right", "text": "Перейти к следующему слову." }
+        ]
+    },
+    "pt": {
+        "title": "Como usar",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Ouvir a pronúncia." },
+            { "icon": "fas fa-mouse-pointer", "text": "Clique nas letras para formar a palavra." },
+            { "icon": "fas fa-check", "text": "Verificar se está correto." },
+            { "icon": "fas fa-undo", "text": "Reiniciar para tentar novamente." },
+            { "icon": "fas fa-arrow-right", "text": "Avançar para a próxima palavra." }
+        ]
+    },
+    "ur": {
+        "title": "کیسے استعمال کریں",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "تلفظ سنیں۔" },
+            { "icon": "fas fa-mouse-pointer", "text": "لفظ بنانے کے لیے حروف پر کلک کریں۔" },
+            { "icon": "fas fa-check", "text": "درستگی چیک کریں۔" },
+            { "icon": "fas fa-undo", "text": "دوبارہ کوشش کریں۔" },
+            { "icon": "fas fa-arrow-right", "text": "اگلے لفظ پر جائیں۔" }
+        ]
+    },
+    "id": {
+        "title": "Cara Menggunakan",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Dengarkan pengucapan." },
+            { "icon": "fas fa-mouse-pointer", "text": "Klik huruf untuk membentuk kata." },
+            { "icon": "fas fa-check", "text": "Periksa apakah benar." },
+            { "icon": "fas fa-undo", "text": "Setel ulang untuk mencoba lagi." },
+            { "icon": "fas fa-arrow-right", "text": "Lanjut ke kata berikutnya." }
+        ]
+    },
+    "pa": {
+        "title": "ਕਿਵੇਂ ਵਰਤੋਂ ਕਰਨਾ ਹੈ",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "ਉਚਾਰਨ ਸੁਣੋ।" },
+            { "icon": "fas fa-mouse-pointer", "text": "ਸ਼ਬਦ ਬਣਾਉਣ ਲਈ ਅੱਖਰਾਂ ਤੇ ਕਲਿੱਕ ਕਰੋ।" },
+            { "icon": "fas fa-check", "text": "ਜਾਂਚ ਕਰੋ ਕਿ ਸਹੀ ਹੈ।" },
+            { "icon": "fas fa-undo", "text": "ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰਨ ਲਈ ਰੀਸੈਟ ਕਰੋ।" },
+            { "icon": "fas fa-arrow-right", "text": "ਅਗਲੇ ਸ਼ਬਦ ਤੇ ਜਾਓ।" }
+        ]
+    },
+    "de": {
+        "title": "Wie man verwendet",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Hören Sie die Aussprache." },
+            { "icon": "fas fa-mouse-pointer", "text": "Klicken Sie auf die Buchstaben, um das Wort zu bilden." },
+            { "icon": "fas fa-check", "text": "Überprüfen Sie, ob es korrekt ist." },
+            { "icon": "fas fa-undo", "text": "Zurücksetzen, um es erneut zu versuchen." },
+            { "icon": "fas fa-arrow-right", "text": "Zum nächsten Wort wechseln." }
+        ]
+    },
+    "ja": {
+        "title": "使い方",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "発音を聞く。" },
+            { "icon": "fas fa-mouse-pointer", "text": "文字をクリックして単語を作成します。" },
+            { "icon": "fas fa-check", "text": "正しいか確認します。" },
+            { "icon": "fas fa-undo", "text": "リセットしてもう一度試してください。" },
+            { "icon": "fas fa-arrow-right", "text": "次の単語に進みます。" }
+        ]
+    },
+    "sw": {
+        "title": "Jinsi ya Kutumia",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Sikiliza matamshi." },
+            { "icon": "fas fa-mouse-pointer", "text": "Bonyeza herufi kuunda neno." },
+            { "icon": "fas fa-check", "text": "Angalia ikiwa ni sahihi." },
+            { "icon": "fas fa-undo", "text": "Weka upya ili kujaribu tena." },
+            { "icon": "fas fa-arrow-right", "text": "Nenda kwenye neno lingine." }
+        ]
+    },
+    "mr": {
+        "title": "कसे वापरायचे",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "उच्चारण ऐका." },
+            { "icon": "fas fa-mouse-pointer", "text": "शब्द तयार करण्यासाठी अक्षरांवर क्लिक करा." },
+            { "icon": "fas fa-check", "text": "योग्य आहे का ते तपासा." },
+            { "icon": "fas fa-undo", "text": "पुन्हा प्रयत्न करण्यासाठी रीसेट करा." },
+            { "icon": "fas fa-arrow-right", "text": "पुढील शब्दावर जा." }
+        ]
+    },
+    "te": {
+        "title": "ఎలా ఉపయోగించాలి",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "ఉచ్చారణ వినండి." },
+            { "icon": "fas fa-mouse-pointer", "text": "పదాన్ని రూపొందించడానికి అక్షరాలపై క్లిక్ చేయండి." },
+            { "icon": "fas fa-check", "text": "సరైనదేనా అని తనిఖీ చేయండి." },
+            { "icon": "fas fa-undo", "text": "మళ్లీ ప్రయత్నించడానికి రీసెట్ చేయండి." },
+            { "icon": "fas fa-arrow-right", "text": "తర్వాతి పదానికి వెళ్లండి." }
+        ]
+    },
+    "tr": {
+        "title": "Nasıl Kullanılır",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Telaffuzu dinle." },
+            { "icon": "fas fa-mouse-pointer", "text": "Kelimeyi oluşturmak için harflere tıkla." },
+            { "icon": "fas fa-check", "text": "Doğru olup olmadığını kontrol et." },
+            { "icon": "fas fa-undo", "text": "Yeniden denemek için sıfırla." },
+            { "icon": "fas fa-arrow-right", "text": "Sonraki kelimeye geç." }
+        ]
+    },
+    "ta": {
+        "title": "எப்படி பயன்படுத்துவது",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "உச்சரிப்பைக் கேளுங்கள்." },
+            { "icon": "fas fa-mouse-pointer", "text": "சொல்லை உருவாக்க எழுத்துக்களைக் கிளிக் செய்யவும்." },
+            { "icon": "fas fa-check", "text": "சரியானதா என சரிபார்க்கவும்." },
+            { "icon": "fas fa-undo", "text": "மீண்டும் முயற்சிக்க மீட்டமைக்கவும்." },
+            { "icon": "fas fa-arrow-right", "text": "அடுத்த சொல்லுக்குச் செல்லவும்." }
+        ]
+    },
+    "vi": {
+        "title": "Cách sử dụng",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Nghe cách phát âm." },
+            { "icon": "fas fa-mouse-pointer", "text": "Nhấp vào các chữ cái để tạo từ." },
+            { "icon": "fas fa-check", "text": "Kiểm tra xem có đúng không." },
+            { "icon": "fas fa-undo", "text": "Đặt lại để thử lại." },
+            { "icon": "fas fa-arrow-right", "text": "Chuyển sang từ tiếp theo." }
+        ]
+    }
+}
