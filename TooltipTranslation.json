@@ -278,5 +278,205 @@
             { "icon": "fas fa-undo", "text": "Återställ för att försöka igen." },
             { "icon": "fas fa-arrow-right", "text": "Gå till nästa ord." }
         ]
+    },
+    "ha": {
+        "title": "Yadda ake Amfani",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Saurari furcin." },
+            { "icon": "fas fa-mouse-pointer", "text": "Danna haruffa don ƙirƙirar kalma." },
+            { "icon": "fas fa-check", "text": "Duba idan daidai ne." },
+            { "icon": "fas fa-undo", "text": "Sake saita don ƙoƙarin sakewa." },
+            { "icon": "fas fa-arrow-right", "text": "Motsa zuwa kalma ta gaba." }
+        ]
+    },
+    "jv": {
+        "title": "Cara Nggunakake",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Ngrungokake pangucap." },
+            { "icon": "fas fa-mouse-pointer", "text": "Klik aksara kanggo nggawe tembung." },
+            { "icon": "fas fa-check", "text": "Mriksa apa bener." },
+            { "icon": "fas fa-undo", "text": "Reset kanggo nyoba maneh." },
+            { "icon": "fas fa-arrow-right", "text": "Pindhah menyang tembung sabanjure." }
+        ]
+    },
+    "gu": {
+        "title": "કેવી રીતે ઉપયોગ કરવો",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "ઉચ્ચારણ સાંભળો." },
+            { "icon": "fas fa-mouse-pointer", "text": "શબ્દ બનાવવા માટે અક્ષરો પર ક્લિક કરો." },
+            { "icon": "fas fa-check", "text": "ચકાસો કે સાચું છે કે નહીં." },
+            { "icon": "fas fa-undo", "text": "ફરીથી પ્રયાસ કરવા માટે રીસેટ કરો." },
+            { "icon": "fas fa-arrow-right", "text": "આગળના શબ્દ પર જાઓ." }
+        ]
+    },
+    "ml": {
+        "title": "എങ്ങനെ ഉപയോഗിക്കാം",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "ഉച്ചാരണം കേൾക്കുക." },
+            { "icon": "fas fa-mouse-pointer", "text": "വാക്ക് രൂപപ്പെടുത്താൻ അക്ഷരങ്ങളിൽ ക്ലിക്ക് ചെയ്യുക." },
+            { "icon": "fas fa-check", "text": "ശരിയാണോ എന്ന് പരിശോധിക്കുക." },
+            { "icon": "fas fa-undo", "text": "വീണ്ടും ശ്രമിക്കാൻ പുനഃസജ്ജമാക്കുക." },
+            { "icon": "fas fa-arrow-right", "text": "അടുത്ത വാക്കിലേക്ക് പോകുക." }
+        ]
+    },
+    "kn": {
+        "title": "ಹೇಗೆ ಬಳಸುವುದು",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "ಉಚ್ಚಾರಣೆ ಕೇಳಿ." },
+            { "icon": "fas fa-mouse-pointer", "text": "ಪದವನ್ನು ರೂಪಿಸಲು ಅಕ್ಷರಗಳನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ." },
+            { "icon": "fas fa-check", "text": "ಸರಿಯಾಗಿದೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಿ." },
+            { "icon": "fas fa-undo", "text": "ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಲು ರೀಸೆಟ್ ಮಾಡಿ." },
+            { "icon": "fas fa-arrow-right", "text": "ಮುಂದಿನ ಪದಕ್ಕೆ ಹೋಗಿ." }
+        ]
+    },
+    "ps": {
+        "title": "څنګه کارول",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "تلفظ واورئ." },
+            { "icon": "fas fa-mouse-pointer", "text": "د کلمې جوړولو لپاره حروف کلیک وکړئ." },
+            { "icon": "fas fa-check", "text": "وګورئ چې سمه ده که نه." },
+            { "icon": "fas fa-undo", "text": "بیا هڅه کولو لپاره بیا تنظیم کړئ." },
+            { "icon": "fas fa-arrow-right", "text": "بلې کلمې ته لاړشئ." }
+        ]
+    },
+    "fa": {
+        "title": "نحوه استفاده",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "تلفظ را گوش دهید." },
+            { "icon": "fas fa-mouse-pointer", "text": "برای تشکیل کلمه روی حروف کلیک کنید." },
+            { "icon": "fas fa-check", "text": "بررسی کنید که درست است یا نه." },
+            { "icon": "fas fa-undo", "text": "برای تلاش مجدد، بازنشانی کنید." },
+            { "icon": "fas fa-arrow-right", "text": "به کلمه بعدی بروید." }
+        ]
+    },
+    "am": {
+        "title": "እንዴት መጠቀም እንደሚቻል",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "ግስጋሴውን ይስማ።" },
+            { "icon": "fas fa-mouse-pointer", "text": "ቃል ለመፍጠር ፊደሎችን ጠቅ ያድርጉ።" },
+            { "icon": "fas fa-check", "text": "ትክክለኛ መሆኑን ያረጋግጡ።" },
+            { "icon": "fas fa-undo", "text": "እንደገና ለመሞከር ዳግም ያስጀምሩ።" },
+            { "icon": "fas fa-arrow-right", "text": "ወደ ቀጣዩ ቃል ይሂዱ።" }
+        ]
+    },
+    "my": {
+        "title": "ဘယ်လိုသုံးရမလဲ",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "အသံထွက်ကိုနားထောင်ပါ။" },
+            { "icon": "fas fa-mouse-pointer", "text": "စာလုံးများကိုနှိပ်ပြီးစာလုံးဖွဲ့ပါ။" },
+            { "icon": "fas fa-check", "text": "မှန်မမှန်စစ်ဆေးပါ။" },
+            { "icon": "fas fa-undo", "text": "ပြန်စပါ။" },
+            { "icon": "fas fa-arrow-right", "text": "နောက်စာလုံးကိုသွားပါ။" }
+        ]
+    },
+    "yo": {
+        "title": "Báwo ni a ṣe le lo",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Gbọ́ ìfọ̀rọ̀wérọ̀." },
+            { "icon": "fas fa-mouse-pointer", "text": "Tẹ àwọn lẹ́tà láti �dá ọ̀rọ̀." },
+            { "icon": "fas fa-check", "text": "Ṣàwárí bóyá ó tọ́." },
+            { "icon": "fas fa-undo", "text": "Túnṣe láti gbìyànjú lẹ́ẹ̀kansí." },
+            { "icon": "fas fa-arrow-right", "text": "Lọ sí ọ̀rọ̀ tókàn." }
+        ]
+    },
+    "tl": {
+        "title": "Paano Gamitin",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Pakinggan ang pagbigkas." },
+            { "icon": "fas fa-mouse-pointer", "text": "I-click ang mga titik para mabuo ang salita." },
+            { "icon": "fas fa-check", "text": "Tingnan kung tama." },
+            { "icon": "fas fa-undo", "text": "I-reset para subukan muli." },
+            { "icon": "fas fa-arrow-right", "text": "Lumipat sa susunod na salita." }
+        ]
+    },
+    "ceb": {
+        "title": "Giunsa Paggamit",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Paminawa ang paglitok." },
+            { "icon": "fas fa-mouse-pointer", "text": "I-klik ang mga letra aron maporma ang pulong." },
+            { "icon": "fas fa-check", "text": "Susiha kung sakto." },
+            { "icon": "fas fa-undo", "text": "I-reset aron mosulay pag-usab." },
+            { "icon": "fas fa-arrow-right", "text": "Moadto sa sunod nga pulong." }
+        ]
+    },
+    "mai": {
+        "title": "कैसे उपयोग करें",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "उच्चारण सुनें।" },
+            { "icon": "fas fa-mouse-pointer", "text": "शब्द बनाने के लिए अक्षरों पर क्लिक करें।" },
+            { "icon": "fas fa-check", "text": "जांचें कि सही है या नहीं।" },
+            { "icon": "fas fa-undo", "text": "रीसेट करके फिर से कोशिश करें।" },
+            { "icon": "fas fa-arrow-right", "text": "अगले शब्द पर जाएं।" }
+        ]
+    },
+    "sd": {
+        "title": "ڪيئن استعمال ڪجي",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "تلفظ ٻڌو." },
+            { "icon": "fas fa-mouse-pointer", "text": "لفظ ٺاهڻ لاءِ اکرن تي ڪلڪ ڪريو." },
+            { "icon": "fas fa-check", "text": "چيڪ ڪريو ته صحيح آهي." },
+            { "icon": "fas fa-undo", "text": "ٻيهر ڪوشش ڪرڻ لاءِ ري سيٽ ڪريو." },
+            { "icon": "fas fa-arrow-right", "text": "اڳيون لفظ ڏانهن وڃو." }
+        ]
+    },
+    "om": {
+        "title": "Akkaataa itti Fayyadamu",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Dhaggeeffi sagalee." },
+            { "icon": "fas fa-mouse-pointer", "text": "Jechaa uumuuf qubee irratti cuqaasi." },
+            { "icon": "fas fa-check", "text": "Sirrii ta'e ilaali." },
+            { "icon": "fas fa-undo", "text": "Irra deebi'ii yaali." },
+            { "icon": "fas fa-arrow-right", "text": "Jechaa itti aanu seeni." }
+        ]
+    },
+    "ig": {
+        "title": "Otu esi eji",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Gee ntị na ịkpọ okwu." },
+            { "icon": "fas fa-mouse-pointer", "text": "Pịa mkpụrụedemede iji mepụta okwu." },
+            { "icon": "fas fa-check", "text": "Lelee ma ọ dị mma." },
+            { "icon": "fas fa-undo", "text": "Tọgharịa iji nwaa ọzọ." },
+            { "icon": "fas fa-arrow-right", "text": "Gaa na okwu na-esote." }
+        ]
+    },
+    "uz": {
+        "title": "Qanday foydalanish kerak",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Talaffuzni tinglang." },
+            { "icon": "fas fa-mouse-pointer", "text": "So'z yasash uchun harflarni bosing." },
+            { "icon": "fas fa-check", "text": "To'g'ri yoki yo'qligini tekshiring." },
+            { "icon": "fas fa-undo", "text": "Qayta urinish uchun qayta o'rnating." },
+            { "icon": "fas fa-arrow-right", "text": "Keyingi so'zga o'ting." }
+        ]
+    },
+    "si": {
+        "title": "කොහොමද භාවිතා කරන්නේ",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "උච්චාරණය අසන්න." },
+            { "icon": "fas fa-mouse-pointer", "text": "වචනය සෑදීමට අකුරු ක්ලික් කරන්න." },
+            { "icon": "fas fa-check", "text": "නිවැරදිදැයි පරීක්ෂා කරන්න." },
+            { "icon": "fas fa-undo", "text": "නැවත උත්සාහ කිරීමට යළි පිහිටුවන්න." },
+            { "icon": "fas fa-arrow-right", "text": "ඊළඟ වචනයට යන්න." }
+        ]
+    },
+    "km": {
+        "title": "របៀបប្រើប្រាស់",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "ស្តាប់ការប្រកាស។" },
+            { "icon": "fas fa-mouse-pointer", "text": "ចុចអក្សរដើម្បីបង្កើតពាក្យ។" },
+            { "icon": "fas fa-check", "text": "ពិនិត្យមើលថាត្រឹមត្រូវឬអត់។" },
+            { "icon": "fas fa-undo", "text": "កំណត់ឡើងវិញដើម្បីព្យាយាមម្តងទៀត។" },
+            { "icon": "fas fa-arrow-right", "text": "ចូលទៅពាក្យបន្ទាប់។" }
+        ]
+    },
+    "ne": {
+        "title": "कसरी प्रयोग गर्ने",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "उच्चारण सुन्नुहोस्।" },
+            { "icon": "fas fa-mouse-pointer", "text": "शब्द बनाउन अक्षरहरूमा क्लिक गर्नुहोस्।" },
+            { "icon": "fas fa-check", "text": "सही छ कि छैन जाँच गर्नुहोस्।" },
+            { "icon": "fas fa-undo", "text": "फेरि प्रयास गर्न रिसेट गर्नुहोस्।" },
+            { "icon": "fas fa-arrow-right", "text": "अर्को शब्दमा जानुहोस्।" }
+        ]
     }
 }
