@@ -250,10 +250,10 @@
 أَغْنام|https://example.com/audio/.mp3
 خَروف|https://example.com/audio/.mp3
 خِراف|https://example.com/audio/.mp3
-جاموس|https://example.com/audio/.mp3
-جاموس|https://example.com/audio/.mp3
-جاموس|https://example.com/audio/.mp3
-جاموس|https://example.com/audio/.mp3
-جاموس|https://example.com/audio/.mp3
-جاموس|https://example.com/audio/.mp3
-جاموس|https://example.com/audio/.mp3
+حِمار|https://example.com/audio/.mp3
+حَمير|https://example.com/audio/.mp3
+أَحْصِنَة|https://example.com/audio/.mp3
+جَمَل|https://example.com/audio/.mp3
+جِمال|https://example.com/audio/.mp3
+ماعِز|https://example.com/audio/.mp3
+مَعيز|https://example.com/audio/.mp3
