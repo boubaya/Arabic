@@ -244,6 +244,16 @@
 عُجول|https://example.com/audio/.mp3
 جاموس|https://example.com/audio/.mp3
 جَواميس|https://example.com/audio/.mp3
+بَهيمة|https://example.com/audio/.mp3
+بَهائِم|https://example.com/audio/.mp3
+غَنَم|https://example.com/audio/.mp3
+أَغْنام|https://example.com/audio/.mp3
+خَروف|https://example.com/audio/.mp3
+خِراف|https://example.com/audio/.mp3
+جاموس|https://example.com/audio/.mp3
+جاموس|https://example.com/audio/.mp3
+جاموس|https://example.com/audio/.mp3
+جاموس|https://example.com/audio/.mp3
 جاموس|https://example.com/audio/.mp3
 جاموس|https://example.com/audio/.mp3
 جاموس|https://example.com/audio/.mp3
