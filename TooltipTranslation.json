@@ -478,5 +478,135 @@
             { "icon": "fas fa-undo", "text": "फेरि प्रयास गर्न रिसेट गर्नुहोस्।" },
             { "icon": "fas fa-arrow-right", "text": "अर्को शब्दमा जानुहोस्।" }
         ]
+    },
+    "zu": {
+        "title": "Indlela Yokusebenzisa",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Lalela ukuphinyiswa." },
+            { "icon": "fas fa-mouse-pointer", "text": "Chofoza izinhlamvu ukwakha igama." },
+            { "icon": "fas fa-check", "text": "Hlola ukuthi ilungile." },
+            { "icon": "fas fa-undo", "text": "Setha kabusha ukuze uzame futhi." },
+            { "icon": "fas fa-arrow-right", "text": "Iya kugama elilandelayo." }
+        ]
+    },
+    "ti": {
+        "title": "ከመይ ጌርካ እዩ",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "ናይ ኣደማምጻ ስምዒት ስምዒት." },
+            { "icon": "fas fa-mouse-pointer", "text": "ቃል ንምፍጣር ፊደላት ጠውቕ." },
+            { "icon": "fas fa-check", "text": "እንተ ቅኑዕ እዩ ርእይ." },
+            { "icon": "fas fa-undo", "text": "እንደገና ንምልላይ ዳግም ኣቐምጥ." },
+            { "icon": "fas fa-arrow-right", "text": "ናብቲ ዝቕጽል ቃል ኪድ." }
+        ]
+    },
+    "sh": {
+        "title": "Kako koristiti",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Slušaj izgovor." },
+            { "icon": "fas fa-mouse-pointer", "text": "Klikni na slova da formiraš reč." },
+            { "icon": "fas fa-check", "text": "Proveri da li je tačno." },
+            { "icon": "fas fa-undo", "text": "Resetuj da pokušaš ponovo." },
+            { "icon": "fas fa-arrow-right", "text": "Pređi na sledeću reč." }
+        ]
+    },
+    "ny": {
+        "title": "Momwe Mungagwiritsire",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Mvetserani kuyankhula." },
+            { "icon": "fas fa-mouse-pointer", "text": "Dinani mawu kuti mupange mawu." },
+            { "icon": "fas fa-check", "text": "Onani ngati ndi olondola." },
+            { "icon": "fas fa-undo", "text": "Yambitsaninso kuyesa." },
+            { "icon": "fas fa-arrow-right", "text": "Pitani ku mawu otsatira." }
+        ]
+    },
+    "hmn": {
+        "title": "Yuav siv li cas",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Mloog koj lub suab." },
+            { "icon": "fas fa-mouse-pointer", "text": "Nyem cov tsiaj ntawv los tsim lub npe." },
+            { "icon": "fas fa-check", "text": "Saib yog tsis yog." },
+            { "icon": "fas fa-undo", "text": "Tawm tawm dua los sim dua." },
+            { "icon": "fas fa-arrow-right", "text": "Mus rau lub npe tom qab." }
+        ]
+    },
+    "sn": {
+        "title": "Maitiro Ekushandisa",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Teerera kududzirwa." },
+            { "icon": "fas fa-mouse-pointer", "text": "Dzvanya mavara kuti ugadzire izwi." },
+            { "icon": "fas fa-check", "text": "Tarisa kana zviri zvakanaka." },
+            { "icon": "fas fa-undo", "text": "Reset kuti uedze zvakare." },
+            { "icon": "fas fa-arrow-right", "text": "Enda kune rinotevera izwi." }
+        ]
+    },
+    "qu": {
+        "title": "Imayna llamk'ay",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Uyarikuy uyarikuy." },
+            { "icon": "fas fa-mouse-pointer", "text": "Ch'ipay qillqakunata rimayta ruwanaykipaq." },
+            { "icon": "fas fa-check", "text": "Qhawariy allinchu kasqanta." },
+            { "icon": "fas fa-undo", "text": "T'ikray musuqllata ruwanaykipaq." },
+            { "icon": "fas fa-arrow-right", "text": "Qatiq rimayman riy." }
+        ]
+    },
+    "kk": {
+        "title": "Қалай қолдану керек",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Айтылуын тыңдаңыз." },
+            { "icon": "fas fa-mouse-pointer", "text": "Сөзді құру үшін әріптерді басыңыз." },
+            { "icon": "fas fa-check", "text": "Дұрыс екенін тексеріңіз." },
+            { "icon": "fas fa-undo", "text": "Қайтадан байқау үшін қалпына келтіріңіз." },
+            { "icon": "fas fa-arrow-right", "text": "Келесі сөзге өтіңіз." }
+        ]
+    },
+    "ku": {
+        "title": "Çawa bikar bînin",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Bilêvkirina bihîstin." },
+            { "icon": "fas fa-mouse-pointer", "text": "Ji bo çêkirina peyvê tîpên bikirtînin." },
+            { "icon": "fas fa-check", "text": "Rast e yan na kontrol bikin." },
+            { "icon": "fas fa-undo", "text": "Ji nû ve biceribînin." },
+            { "icon": "fas fa-arrow-right", "text": "Biçe peyva din." }
+        ]
+    },
+    "so": {
+        "title": "Sida loo isticmaalo",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Dhagayso dhawaaqa." },
+            { "icon": "fas fa-mouse-pointer", "text": "Guji xarfaha si aad u sameyso erayga." },
+            { "icon": "fas fa-check", "text": "Hubi haddii ay sax tahay." },
+            { "icon": "fas fa-undo", "text": "Dib u dejiso si aad u isku daydo." },
+            { "icon": "fas fa-arrow-right", "text": "U gudub erayga xiga." }
+        ]
+    },
+    "az": {
+        "title": "Necə istifadə etmək",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Tələffüzü dinlə." },
+            { "icon": "fas fa-mouse-pointer", "text": "Söz yaratmaq üçün hərflərə kliklə." },
+            { "icon": "fas fa-check", "text": "Düzgün olub olmadığını yoxla." },
+            { "icon": "fas fa-undo", "text": "Yenidən cəhd etmək üçün sıfırla." },
+            { "icon": "fas fa-arrow-right", "text": "Növbəti sözə keç." }
+        ]
+    },
+    "ug": {
+        "title": "قانداق ئىشلىتىش",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "تەلەپپۇزنى ئاڭلاڭ." },
+            { "icon": "fas fa-mouse-pointer", "text": "سۆز ياساش ئۈچۈن ھەرپلەرنى چېكىڭ." },
+            { "icon": "fas fa-check", "text": "توغرا ياكى يوقلۇقىنى تەكشۈرۈڭ." },
+            { "icon": "fas fa-undo", "text": "قايتا سىناش ئۈچۈن قايتا تەڭشەڭ." },
+            { "icon": "fas fa-arrow-right", "text": "كېيىنكى سۆزگە يۆتكەل." }
+        ]
+    },
+    "wo": {
+        "title": "Naka nga laaj",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Dégg baat bi." },
+            { "icon": "fas fa-mouse-pointer", "text": "Tàmbalee mbind mi ngir def baat bi." },
+            { "icon": "fas fa-check", "text": "Seetlu nu baat bi dëgg la." },
+            { "icon": "fas fa-undo", "text": "Dib delloo ngir jëfandikoo." },
+            { "icon": "fas fa-arrow-right", "text": "Demal ci baat bi ci des." }
+        ]
     }
 }
