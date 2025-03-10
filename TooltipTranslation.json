@@ -198,5 +198,85 @@
             { "icon": "fas fa-undo", "text": "Đặt lại để thử lại." },
             { "icon": "fas fa-arrow-right", "text": "Chuyển sang từ tiếp theo." }
         ]
+    },
+    "ko": {
+        "title": "사용 방법",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "발음을 들어보세요." },
+            { "icon": "fas fa-mouse-pointer", "text": "글자를 클릭하여 단어를 만드세요." },
+            { "icon": "fas fa-check", "text": "정확한지 확인하세요." },
+            { "icon": "fas fa-undo", "text": "다시 시도하려면 재설정하세요." },
+            { "icon": "fas fa-arrow-right", "text": "다음 단어로 이동하세요." }
+        ]
+    },
+    "it": {
+        "title": "Come usare",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Ascolta la pronuncia." },
+            { "icon": "fas fa-mouse-pointer", "text": "Clicca sulle lettere per formare la parola." },
+            { "icon": "fas fa-check", "text": "Controlla se è corretto." },
+            { "icon": "fas fa-undo", "text": "Ripristina per riprovare." },
+            { "icon": "fas fa-arrow-right", "text": "Passa alla parola successiva." }
+        ]
+    },
+    "th": {
+        "title": "วิธีการใช้",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "ฟังการออกเสียง." },
+            { "icon": "fas fa-mouse-pointer", "text": "คลิกตัวอักษรเพื่อสร้างคำ." },
+            { "icon": "fas fa-check", "text": "ตรวจสอบว่าถูกต้องหรือไม่." },
+            { "icon": "fas fa-undo", "text": "รีเซ็ตเพื่อลองอีกครั้ง." },
+            { "icon": "fas fa-arrow-right", "text": "ไปที่คำถัดไป." }
+        ]
+    },
+    "pl": {
+        "title": "Jak używać",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Posłuchaj wymowy." },
+            { "icon": "fas fa-mouse-pointer", "text": "Kliknij litery, aby utworzyć słowo." },
+            { "icon": "fas fa-check", "text": "Sprawdź, czy jest poprawne." },
+            { "icon": "fas fa-undo", "text": "Zresetuj, aby spróbować ponownie." },
+            { "icon": "fas fa-arrow-right", "text": "Przejdź do następnego słowa." }
+        ]
+    },
+    "uk": {
+        "title": "Як використовувати",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Прослухайте вимову." },
+            { "icon": "fas fa-mouse-pointer", "text": "Клацніть на літери, щоб скласти слово." },
+            { "icon": "fas fa-check", "text": "Перевірте, чи правильно." },
+            { "icon": "fas fa-undo", "text": "Скиньте, щоб спробувати знову." },
+            { "icon": "fas fa-arrow-right", "text": "Перейдіть до наступного слова." }
+        ]
+    },
+    "nl": {
+        "title": "Hoe te gebruiken",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Luister naar de uitspraak." },
+            { "icon": "fas fa-mouse-pointer", "text": "Klik op de letters om het woord te vormen." },
+            { "icon": "fas fa-check", "text": "Controleer of het correct is." },
+            { "icon": "fas fa-undo", "text": "Reset om opnieuw te proberen." },
+            { "icon": "fas fa-arrow-right", "text": "Ga naar het volgende woord." }
+        ]
+    },
+    "fil": {
+        "title": "Paano Gamitin",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Pakinggan ang pagbigkas." },
+            { "icon": "fas fa-mouse-pointer", "text": "I-click ang mga titik para mabuo ang salita." },
+            { "icon": "fas fa-check", "text": "Tingnan kung tama." },
+            { "icon": "fas fa-undo", "text": "I-reset para subukan muli." },
+            { "icon": "fas fa-arrow-right", "text": "Lumipat sa susunod na salita." }
+        ]
+    },
+    "sv": {
+        "title": "Hur man använder",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Lyssna på uttalet." },
+            { "icon": "fas fa-mouse-pointer", "text": "Klicka på bokstäverna för att bilda ordet." },
+            { "icon": "fas fa-check", "text": "Kontrollera om det är korrekt." },
+            { "icon": "fas fa-undo", "text": "Återställ för att försöka igen." },
+            { "icon": "fas fa-arrow-right", "text": "Gå till nästa ord." }
+        ]
     }
 }
