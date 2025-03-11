@@ -235,7 +235,7 @@
 قِطَط|https://example.com/audio/.mp3
 كَلْب|https://example.com/audio/.mp3
 كَلْبَة|https://example.com/audio/.mp3
-كلاب|https://example.com/audio/.mp3
+كِلاب|https://example.com/audio/.mp3
 بَقَرَة|https://example.com/audio/.mp3
 بَقَرات|https://example.com/audio/.mp3
 ثَوْر|https://example.com/audio/.mp3
