@@ -373,7 +373,7 @@
         "title": "Báwo ni a ṣe le lo",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Gbọ́ ìfọ̀rọ̀wérọ̀." },
-            { "icon": "fas fa-mouse-pointer", "text": "Tẹ àwọn lẹ́tà láti �dá ọ̀rọ̀." },
+            { "icon": "fas fa-mouse-pointer", "text": "Tẹ àwọn lẹ́tà láti dá ọ̀rọ̀." },
             { "icon": "fas fa-check", "text": "Ṣàwárí bóyá ó tọ́." },
             { "icon": "fas fa-undo", "text": "Túnṣe láti gbìyànjú lẹ́ẹ̀kansí." },
             { "icon": "fas fa-arrow-right", "text": "Lọ sí ọ̀rọ̀ tókàn." }
@@ -977,6 +977,66 @@
             { "icon": "fas fa-check", "text": "Siviʻi kapau ʻoku tonu." },
             { "icon": "fas fa-undo", "text": "Toe seti ke toe lava." },
             { "icon": "fas fa-arrow-right", "text": "Alu ki he lea hoko." }
+        ]
+    },
+    "tt": {
+        "title": "Ничек кулланырга",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Тәфсирне тыңлагыз." },
+            { "icon": "fas fa-mouse-pointer", "text": "Сүзне ясау өчен хәрефләргә басыгыз." },
+            { "icon": "fas fa-check", "text": "Дөреслеген тикшерегез." },
+            { "icon": "fas fa-undo", "text": "Кабатлап карау өчен яңадан көйләгез." },
+            { "icon": "fas fa-arrow-right", "text": "Киләсе сүзгә күчегез." }
+        ]
+    },
+    "tw": {
+        "title": "Ɛkwan a ɛsɛ sɛ wode di dwuma",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Tie ɔkasɛm no." },
+            { "icon": "fas fa-mouse-pointer", "text": "Klik wɔ nkyerɛwee no so na bɔ abodin." },
+            { "icon": "fas fa-check", "text": "Hwɛ sɛ ɛyɛ nokware anaa." },
+            { "icon": "fas fa-undo", "text": "San yɛ bio." },
+            { "icon": "fas fa-arrow-right", "text": "Kɔ abodin a edi hɔ." }
+        ]
+    },
+    "fj": {
+        "title": "Vakayagataki Vakacava",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Rogoca na vosa." },
+            { "icon": "fas fa-mouse-pointer", "text": "Clic ni matanivola me buli na vosa." },
+            { "icon": "fas fa-check", "text": "Dikeva ke sa donu." },
+            { "icon": "fas fa-undo", "text": "Vakalesui tale me tovolea tale." },
+            { "icon": "fas fa-arrow-right", "text": "Lako ki na vosa ka tarava." }
+        ]
+    },
+    "mg": {
+        "title": "Fomba fampiasana",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Henoy ny fanononana." },
+            { "icon": "fas fa-mouse-pointer", "text": "Tsindrio ny litera hamoronana teny." },
+            { "icon": "fas fa-check", "text": "Jereo raha marina." },
+            { "icon": "fas fa-undo", "text": "Avereno mba hiezahana indray." },
+            { "icon": "fas fa-arrow-right", "text": "Mandrosoa amin'ny teny manaraka." }
+        ]
+    },
+    "prs": {
+        "title": "چگونه استفاده کنیم",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "تلفظ را گوش دهید." },
+            { "icon": "fas fa-mouse-pointer", "text": "برای تشکیل کلمه روی حروف کلیک کنید." },
+            { "icon": "fas fa-check", "text": "بررسی کنید که درست است یا نه." },
+            { "icon": "fas fa-undo", "text": "برای تلاش مجدد، بازنشانی کنید." },
+            { "icon": "fas fa-arrow-right", "text": "به کلمه بعدی بروید." }
+        ]
+    },
+    "haw": {
+        "title": "Pehea e hoʻohana ai",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "E hoʻolohe i ka ʻōlelo." },
+            { "icon": "fas fa-mouse-pointer", "text": "Kaomi i nā leka e hana i ka huaʻōlelo." },
+            { "icon": "fas fa-check", "text": "E nānā inā pololei." },
+            { "icon": "fas fa-undo", "text": "Hoʻomaka hou e hoʻāʻo hou ai." },
+            { "icon": "fas fa-arrow-right", "text": "E hele i ka huaʻōlelo aʻe." }
         ]
     }
 }
