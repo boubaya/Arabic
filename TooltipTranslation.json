@@ -608,5 +608,195 @@
             { "icon": "fas fa-undo", "text": "Dib delloo ngir jëfandikoo." },
             { "icon": "fas fa-arrow-right", "text": "Demal ci baat bi ci des." }
         ]
-    }
+    },
+    "cs": {
+        "title": "Jak používat",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Poslechněte si výslovnost." },
+            { "icon": "fas fa-mouse-pointer", "text": "Klikněte na písmena, abyste vytvořili slovo." },
+            { "icon": "fas fa-check", "text": "Zkontrolujte, zda je to správné." },
+            { "icon": "fas fa-undo", "text": "Resetujte a zkuste to znovu." },
+            { "icon": "fas fa-arrow-right", "text": "Přejděte na další slovo." }
+        ]
+    },
+    "el": {
+        "title": "Πώς να χρησιμοποιήσετε",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Ακούστε την προφορά." },
+            { "icon": "fas fa-mouse-pointer", "text": "Κάντε κλικ στα γράμματα για να σχηματίσετε τη λέξη." },
+            { "icon": "fas fa-check", "text": "Ελέγξτε αν είναι σωστό." },
+            { "icon": "fas fa-undo", "text": "Επαναφέρετε για να δοκιμάσετε ξανά." },
+            { "icon": "fas fa-arrow-right", "text": "Προχωρήστε στην επόμενη λέξη." }
+        ]
+    },
+    "hu": {
+        "title": "Hogyan kell használni",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Hallgassa meg a kiejtést." },
+            { "icon": "fas fa-mouse-pointer", "text": "Kattintson a betűkre a szó létrehozásához." },
+            { "icon": "fas fa-check", "text": "Ellenőrizze, hogy helyes-e." },
+            { "icon": "fas fa-undo", "text": "Állítsa vissza, hogy újra próbálja." },
+            { "icon": "fas fa-arrow-right", "text": "Lépjen a következő szóra." }
+        ]
+    },
+    "ro": {
+        "title": "Cum să folosești",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Ascultați pronunția." },
+            { "icon": "fas fa-mouse-pointer", "text": "Faceți clic pe litere pentru a forma cuvântul." },
+            { "icon": "fas fa-check", "text": "Verificați dacă este corect." },
+            { "icon": "fas fa-undo", "text": "Resetați pentru a încerca din nou." },
+            { "icon": "fas fa-arrow-right", "text": "Treceți la următorul cuvânt." }
+        ]
+    },
+    "fi": {
+        "title": "Käyttöohje",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Kuuntele ääntämys." },
+            { "icon": "fas fa-mouse-pointer", "text": "Napsauta kirjaimia muodostaaksesi sanan." },
+            { "icon": "fas fa-check", "text": "Tarkista, onko se oikein." },
+            { "icon": "fas fa-undo", "text": "Nollaa ja yritä uudelleen." },
+            { "icon": "fas fa-arrow-right", "text": "Siirry seuraavaan sanaan." }
+        ]
+    },
+    "da": {
+        "title": "Sådan bruges",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Lyt til udtalen." },
+            { "icon": "fas fa-mouse-pointer", "text": "Klik på bogstaverne for at danne ordet." },
+            { "icon": "fas fa-check", "text": "Kontroller, om det er korrekt." },
+            { "icon": "fas fa-undo", "text": "Nulstil for at prøve igen." },
+            { "icon": "fas fa-arrow-right", "text": "Gå til næste ord." }
+        ]
+    },
+    "no": {
+        "title": "Hvordan bruke",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Lytt til uttalen." },
+            { "icon": "fas fa-mouse-pointer", "text": "Klikk på bokstavene for å danne ordet." },
+            { "icon": "fas fa-check", "text": "Sjekk om det er riktig." },
+            { "icon": "fas fa-undo", "text": "Tilbakestill for å prøve på nytt." },
+            { "icon": "fas fa-arrow-right", "text": "Gå til neste ord." }
+        ]
+    },
+    "sk": {
+        "title": "Ako používať",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Vypočujte si výslovnosť." },
+            { "icon": "fas fa-mouse-pointer", "text": "Kliknite na písmená, aby ste vytvorili slovo." },
+            { "icon": "fas fa-check", "text": "Skontrolujte, či je to správne." },
+            { "icon": "fas fa-undo", "text": "Obnovte a skúste to znova." },
+            { "icon": "fas fa-arrow-right", "text": "Prejdite na ďalšie slovo." }
+        ]
+    },
+    "bg": {
+        "title": "Как да използвате",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Слушайте произношението." },
+            { "icon": "fas fa-mouse-pointer", "text": "Кликнете върху буквите, за да образувате думата." },
+            { "icon": "fas fa-check", "text": "Проверете дали е правилно." },
+            { "icon": "fas fa-undo", "text": "Нулирайте, за да опитате отново." },
+            { "icon": "fas fa-arrow-right", "text": "Преминете към следващата дума." }
+        ]
+    },
+    "hr": {
+        "title": "Kako koristiti",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Slušajte izgovor." },
+            { "icon": "fas fa-mouse-pointer", "text": "Kliknite na slova da biste formirali riječ." },
+            { "icon": "fas fa-check", "text": "Provjerite je li točno." },
+            { "icon": "fas fa-undo", "text": "Resetirajte za ponovni pokušaj." },
+            { "icon": "fas fa-arrow-right", "text": "Prijeđite na sljedeću riječ." }
+        ]
+    },
+    "lt": {
+        "title": "Kaip naudotis",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Klausykite tarimo." },
+            { "icon": "fas fa-mouse-pointer", "text": "Spustelėkite raides, kad sudarytumėte žodį." },
+            { "icon": "fas fa-check", "text": "Patikrinkite, ar teisinga." },
+            { "icon": "fas fa-undo", "text": "Atstatykite, kad bandytumėte dar kartą." },
+            { "icon": "fas fa-arrow-right", "text": "Pereikite prie kito žodžio." }
+        ]
+    },
+    "sl": {
+        "title": "Kako uporabljati",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Poslušajte izgovorjavo." },
+            { "icon": "fas fa-mouse-pointer", "text": "Kliknite na črke, da oblikujete besedo." },
+            { "icon": "fas fa-check", "text": "Preverite, ali je pravilno." },
+            { "icon": "fas fa-undo", "text": "Ponastavite za ponovni poskus." },
+            { "icon": "fas fa-arrow-right", "text": "Pojdite na naslednjo besedo." }
+        ]
+    },
+    "lv": {
+        "title": "Kā lietot",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Klausieties izrunu." },
+            { "icon": "fas fa-mouse-pointer", "text": "Noklikšķiniet uz burtiem, lai izveidotu vārdu." },
+            { "icon": "fas fa-check", "text": "Pārbaudiet, vai tas ir pareizi." },
+            { "icon": "fas fa-undo", "text": "Atiestatiet, lai mēģinātu vēlreiz." },
+            { "icon": "fas fa-arrow-right", "text": "Pārejiet uz nākamo vārdu." }
+        ]
+    },
+    "et": {
+        "title": "Kuidas kasutada",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Kuulake hääldust." },
+            { "icon": "fas fa-mouse-pointer", "text": "Klõpsake tähti, et moodustada sõna." },
+            { "icon": "fas fa-check", "text": "Kontrollige, kas see on õige." },
+            { "icon": "fas fa-undo", "text": "Lähtestage, et proovida uuesti." },
+            { "icon": "fas fa-arrow-right", "text": "Minge järgmise sõna juurde." }
+        ]
+    },
+    "mt": {
+        "title": "Kif Tuża",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Isma l-pronunzja." },
+            { "icon": "fas fa-mouse-pointer", "text": "Ikklikkja l-ittri biex toħloq il-kelma." },
+            { "icon": "fas fa-check", "text": "Iċċekkja jekk hix korretta." },
+            { "icon": "fas fa-undo", "text": "Irrisettja biex terġa' tipprova." },
+            { "icon": "fas fa-arrow-right", "text": "Mur għall-kelma li jmiss." }
+        ]
+    },
+    "is": {
+        "title": "Hvernig á að nota",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Hlustaðu á framburðinn." },
+            { "icon": "fas fa-mouse-pointer", "text": "Smelltu á bókstafina til að mynda orðið." },
+            { "icon": "fas fa-check", "text": "Athugaðu hvort það sé rétt." },
+            { "icon": "fas fa-undo", "text": "Endurstilla til að reyna aftur." },
+            { "icon": "fas fa-arrow-right", "text": "Farðu í næsta orð." }
+        ]
+    },
+    "ga": {
+        "title": "Conas Úsáid",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Éist leis an bhfuaimniú." },
+            { "icon": "fas fa-mouse-pointer", "text": "Cliceáil ar na litreacha chun an focal a chruthú." },
+            { "icon": "fas fa-check", "text": "Seiceáil an bhfuil sé ceart." },
+            { "icon": "fas fa-undo", "text": "Athshocraigh chun triail eile a bhaint as." },
+            { "icon": "fas fa-arrow-right", "text": "Téigh go dtí an chéad fhocal eile." }
+        ]
+    },
+    "cy": {
+        "title": "Sut i Ddefnyddio",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Gwrando ar ynganiad." },
+            { "icon": "fas fa-mouse-pointer", "text": "Cliciwch ar y llythrennau i ffurfio'r gair." },
+            { "icon": "fas fa-check", "text": "Gwiriwch a yw'n gywir." },
+            { "icon": "fas fa-undo", "text": "Ailosod i geisio eto." },
+            { "icon": "fas fa-arrow-right", "text": "Ewch i'r gair nesaf." }
+        ]
+    },
+    "eu": {
+        "title": "Nola erabili",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Entzun ahoskera." },
+            { "icon": "fas fa-mouse-pointer", "text": "Egin klik letretan hitza osatzeko." },
+            { "icon": "fas fa-check", "text": "Egiaztatu zuzena den." },
+            { "icon": "fas fa-undo", "text": "Berrezarri berriro saiatzeko." },
+            { "icon": "fas fa-arrow-right", "text": "Joan hurrengo hitzera." }
+        ]
+    }  
 }
