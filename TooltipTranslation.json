@@ -798,5 +798,185 @@
             { "icon": "fas fa-undo", "text": "Berrezarri berriro saiatzeko." },
             { "icon": "fas fa-arrow-right", "text": "Joan hurrengo hitzera." }
         ]
-    }  
+    },
+    "xh": {
+        "title": "Indlela Yokusebenzisa",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Mamela uphimbo." },
+            { "icon": "fas fa-mouse-pointer", "text": "Cofa izinhlamvu ukwakha igama." },
+            { "icon": "fas fa-check", "text": "Qinisekisa ukuthi ilungile." },
+            { "icon": "fas fa-undo", "text": "Setha kabusha ukuze uzame futhi." },
+            { "icon": "fas fa-arrow-right", "text": "Iya kugama elilandelayo." }
+        ]
+    },
+    "be": {
+        "title": "Як выкарыстоўваць",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Праслухайце вымаўленне." },
+            { "icon": "fas fa-mouse-pointer", "text": "Націсніце на літары, каб скласці слова." },
+            { "icon": "fas fa-check", "text": "Праверце, ці правільна." },
+            { "icon": "fas fa-undo", "text": "Скінуць, каб паспрабаваць зноў." },
+            { "icon": "fas fa-arrow-right", "text": "Перайдзіце да наступнага слова." }
+        ]
+    },
+    "gl": {
+        "title": "Como usar",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Escoita a pronunciación." },
+            { "icon": "fas fa-mouse-pointer", "text": "Fai clic nas letras para formar a palabra." },
+            { "icon": "fas fa-check", "text": "Comproba se é correcto." },
+            { "icon": "fas fa-undo", "text": "Reinicia para intentar de novo." },
+            { "icon": "fas fa-arrow-right", "text": "Pasa á seguinte palabra." }
+        ]
+    },
+    "hy": {
+        "title": "Ինչպես օգտագործել",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Լսեք արտասանությունը." },
+            { "icon": "fas fa-mouse-pointer", "text": "Սեղմեք տառերը բառը կազմելու համար." },
+            { "icon": "fas fa-check", "text": "Ստուգեք, արդյոք ճիշտ է." },
+            { "icon": "fas fa-undo", "text": "Վերականգնեք նորից փորձելու համար." },
+            { "icon": "fas fa-arrow-right", "text": "Անցեք հաջորդ բառին." }
+        ]
+    },
+    "ka": {
+        "title": "როგორ გამოიყენოთ",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "მოისმინეთ გამოთქმა." },
+            { "icon": "fas fa-mouse-pointer", "text": "დააწკაპუნეთ ასოებზე სიტყვის შესაქმნელად." },
+            { "icon": "fas fa-check", "text": "შეამოწმეთ სისწორე." },
+            { "icon": "fas fa-undo", "text": "გადატვირთეთ თავიდან სცადოთ." },
+            { "icon": "fas fa-arrow-right", "text": "გადადით შემდეგ სიტყვაზე." }
+        ]
+    },
+    "mk": {
+        "title": "Како да користите",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Слушнете го изговорот." },
+            { "icon": "fas fa-mouse-pointer", "text": "Кликнете на буквите за да го формирате зборот." },
+            { "icon": "fas fa-check", "text": "Проверете дали е точно." },
+            { "icon": "fas fa-undo", "text": "Ресетирајте за да пробате повторно." },
+            { "icon": "fas fa-arrow-right", "text": "Одете на следниот збор." }
+        ]
+    },
+    "sq": {
+        "title": "Si të përdoret",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Dëgjoni shqiptimin." },
+            { "icon": "fas fa-mouse-pointer", "text": "Klikoni mbi shkronjat për të formuar fjalën." },
+            { "icon": "fas fa-check", "text": "Kontrolloni nëse është e saktë." },
+            { "icon": "fas fa-undo", "text": "Rivendosni për të provuar përsëri." },
+            { "icon": "fas fa-arrow-right", "text": "Kaloni në fjalën tjetër." }
+        ]
+    },
+    "bs": {
+        "title": "Kako koristiti",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Slušajte izgovor." },
+            { "icon": "fas fa-mouse-pointer", "text": "Kliknite na slova da formirate riječ." },
+            { "icon": "fas fa-check", "text": "Provjerite da li je tačno." },
+            { "icon": "fas fa-undo", "text": "Resetujte da pokušate ponovo." },
+            { "icon": "fas fa-arrow-right", "text": "Pređite na sljedeću riječ." }
+        ]
+    },
+    "ca": {
+        "title": "Com utilitzar",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Escolta la pronunciació." },
+            { "icon": "fas fa-mouse-pointer", "text": "Fes clic a les lletres per formar la paraula." },
+            { "icon": "fas fa-check", "text": "Comprova si és correcte." },
+            { "icon": "fas fa-undo", "text": "Reinicia per intentar-ho de nou." },
+            { "icon": "fas fa-arrow-right", "text": "Passa a la paraula següent." }
+        ]
+    },
+    "co": {
+        "title": "Cumu utilizà",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Ascolta a pronuncia." },
+            { "icon": "fas fa-mouse-pointer", "text": "Clicca nant'à e lettere per formà a parolla." },
+            { "icon": "fas fa-check", "text": "Verificà s'ellu hè currettu." },
+            { "icon": "fas fa-undo", "text": "Ripristinà per pruvà torna." },
+            { "icon": "fas fa-arrow-right", "text": "Andà à a parolla seguente." }
+        ]
+    },
+    "eo": {
+        "title": "Kiel uzi",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Aŭskultu la prononcon." },
+            { "icon": "fas fa-mouse-pointer", "text": "Klaku la literojn por formi la vorton." },
+            { "icon": "fas fa-check", "text": "Kontrolu ĉu ĝi estas ĝusta." },
+            { "icon": "fas fa-undo", "text": "Restarigi por reprovi." },
+            { "icon": "fas fa-arrow-right", "text": "Iru al la sekva vorto." }
+        ]
+    },
+    "fy": {
+        "title": "Hoe te brûken",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Harkje nei de útspraak." },
+            { "icon": "fas fa-mouse-pointer", "text": "Klik op de letters om it wurd te foarmjen." },
+            { "icon": "fas fa-check", "text": "Kontrolearje oft it korrekt is." },
+            { "icon": "fas fa-undo", "text": "Weromsette om opnij te probearjen." },
+            { "icon": "fas fa-arrow-right", "text": "Gean nei it folgjende wurd." }
+        ]
+    },
+    "gd": {
+        "title": "Mar a chleachdas tu",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Èist leis an fhuaimneachadh." },
+            { "icon": "fas fa-mouse-pointer", "text": "Cliog air na litrichean gus am facal a chruthachadh." },
+            { "icon": "fas fa-check", "text": "Dèan cinnteach a bheil e ceart." },
+            { "icon": "fas fa-undo", "text": "Ath-shuidhich airson feuchainn ris a-rithist." },
+            { "icon": "fas fa-arrow-right", "text": "Rach chun ath fhacal." }
+        ]
+    },
+    "ht": {
+        "title": "Kijan pou itilize",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Koute pwononsyasyon an." },
+            { "icon": "fas fa-mouse-pointer", "text": "Klike sou lèt yo pou fòme mo a." },
+            { "icon": "fas fa-check", "text": "Tcheke si li kòrèk." },
+            { "icon": "fas fa-undo", "text": "Reyajiste pou eseye ankò." },
+            { "icon": "fas fa-arrow-right", "text": "Ale nan mo kap vini an." }
+        ]
+    },
+    "lb": {
+        "title": "Wéi benotzen",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Lauschtert d'Aussprooch." },
+            { "icon": "fas fa-mouse-pointer", "text": "Klickt op d'Buschtawen fir d'Wort ze bilden." },
+            { "icon": "fas fa-check", "text": "Kuckt no ob et richteg ass." },
+            { "icon": "fas fa-undo", "text": "Zrécksetzen fir nach eng Kéier ze probéieren." },
+            { "icon": "fas fa-arrow-right", "text": "Gitt op dat nächst Wuert." }
+        ]
+    },
+    "mi": {
+        "title": "Me pēhea te whakamahi",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Whakarongo ki te whakaputa." },
+            { "icon": "fas fa-mouse-pointer", "text": "Pāwhiri ki ngā reta hei hanga i te kupu." },
+            { "icon": "fas fa-check", "text": "Tirohia mehemea he tika." },
+            { "icon": "fas fa-undo", "text": "Tautuhi anō kia ngana anō." },
+            { "icon": "fas fa-arrow-right", "text": "Haere ki te kupu ka whai ake." }
+        ]
+    },
+    "sm": {
+        "title": "Faʻafefea ona faʻaoga",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Faʻalogo i le faʻaleoga." },
+            { "icon": "fas fa-mouse-pointer", "text": "Kiliki mataitusi e fausia ai le upu." },
+            { "icon": "fas fa-check", "text": "Siaki pe saʻo." },
+            { "icon": "fas fa-undo", "text": "Toe seti e toe taumafai." },
+            { "icon": "fas fa-arrow-right", "text": "Alu i le isi upu." }
+        ]
+    },
+    "to": {
+        "title": "Fefe hoko",
+        "steps": [
+            { "icon": "fas fa-volume-up", "text": "Fakalogo ki le leo." },
+            { "icon": "fas fa-mouse-pointer", "text": "Kiliki ki he ngaahi lea ke fokotuʻu ai ha lea." },
+            { "icon": "fas fa-check", "text": "Siviʻi kapau ʻoku tonu." },
+            { "icon": "fas fa-undo", "text": "Toe seti ke toe lava." },
+            { "icon": "fas fa-arrow-right", "text": "Alu ki he lea hoko." }
+        ]
+    }
 }
