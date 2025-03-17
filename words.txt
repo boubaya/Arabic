@@ -260,3 +260,5 @@
 خَنازير|https://example.com/audio/.mp3
 أَرْنَب|https://example.com/audio/.mp3
 أَرانِب|https://example.com/audio/.mp3
+فَأْر|https://example.com/audio/.mp3
+فِئْران|https://example.com/audio/.mp3
