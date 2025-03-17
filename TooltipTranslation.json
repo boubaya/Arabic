@@ -510,264 +510,266 @@
             { "icon": "fas fa-lightbulb", "text": "Dobij pomoć ili savete." }
         ]
     },
+{
     "ny": {
         "title": "Momwe Mungagwiritsire",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Mvetserani kuyankhula." },
-            { "icon": "fas fa-mouse-pointer", "text": "Dinani mawu kuti mupange mawu." },
+            { "icon": "fas fa-arrow-right", "text": "Pitani ku mawu otsatira." },
             { "icon": "fas fa-check", "text": "Onani ngati ndi olondola." },
             { "icon": "fas fa-undo", "text": "Yambitsaninso kuyesa." },
-            { "icon": "fas fa-arrow-right", "text": "Pitani ku mawu otsatira." }
+            { "icon": "fas fa-lightbulb", "text": "Pezani chithandizo kapena malangizo." }
         ]
     },
     "hmn": {
         "title": "Yuav siv li cas",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Mloog koj lub suab." },
-            { "icon": "fas fa-mouse-pointer", "text": "Nyem cov tsiaj ntawv los tsim lub npe." },
+            { "icon": "fas fa-arrow-right", "text": "Mus rau lub npe tom qab." },
             { "icon": "fas fa-check", "text": "Saib yog tsis yog." },
             { "icon": "fas fa-undo", "text": "Tawm tawm dua los sim dua." },
-            { "icon": "fas fa-arrow-right", "text": "Mus rau lub npe tom qab." }
+            { "icon": "fas fa-lightbulb", "text": "Nrhiav kev pab los yog qhia." }
         ]
     },
     "sn": {
         "title": "Maitiro Ekushandisa",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Teerera kududzirwa." },
-            { "icon": "fas fa-mouse-pointer", "text": "Dzvanya mavara kuti ugadzire izwi." },
+            { "icon": "fas fa-arrow-right", "text": "Enda kune rinotevera izwi." },
             { "icon": "fas fa-check", "text": "Tarisa kana zviri zvakanaka." },
             { "icon": "fas fa-undo", "text": "Reset kuti uedze zvakare." },
-            { "icon": "fas fa-arrow-right", "text": "Enda kune rinotevera izwi." }
+            { "icon": "fas fa-lightbulb", "text": "Wana rubatsiro kana mazano." }
         ]
     },
     "qu": {
         "title": "Imayna llamk'ay",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Uyarikuy uyarikuy." },
-            { "icon": "fas fa-mouse-pointer", "text": "Ch'ipay qillqakunata rimayta ruwanaykipaq." },
+            { "icon": "fas fa-arrow-right", "text": "Qatiq rimayman riy." },
             { "icon": "fas fa-check", "text": "Qhawariy allinchu kasqanta." },
             { "icon": "fas fa-undo", "text": "T'ikray musuqllata ruwanaykipaq." },
-            { "icon": "fas fa-arrow-right", "text": "Qatiq rimayman riy." }
+            { "icon": "fas fa-lightbulb", "text": "Yanapay yanapa." }
         ]
     },
     "kk": {
         "title": "Қалай қолдану керек",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Айтылуын тыңдаңыз." },
-            { "icon": "fas fa-mouse-pointer", "text": "Сөзді құру үшін әріптерді басыңыз." },
+            { "icon": "fas fa-arrow-right", "text": "Келесі сөзге өтіңіз." },
             { "icon": "fas fa-check", "text": "Дұрыс екенін тексеріңіз." },
             { "icon": "fas fa-undo", "text": "Қайтадан байқау үшін қалпына келтіріңіз." },
-            { "icon": "fas fa-arrow-right", "text": "Келесі сөзге өтіңіз." }
+            { "icon": "fas fa-lightbulb", "text": "Көмек немесе кеңес алыңыз." }
         ]
     },
     "ku": {
         "title": "Çawa bikar bînin",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Bilêvkirina bihîstin." },
-            { "icon": "fas fa-mouse-pointer", "text": "Ji bo çêkirina peyvê tîpên bikirtînin." },
+            { "icon": "fas fa-arrow-right", "text": "Biçe peyva din." },
             { "icon": "fas fa-check", "text": "Rast e yan na kontrol bikin." },
             { "icon": "fas fa-undo", "text": "Ji nû ve biceribînin." },
-            { "icon": "fas fa-arrow-right", "text": "Biçe peyva din." }
+            { "icon": "fas fa-lightbulb", "text": "Alîkarî an şîret bistînin." }
         ]
     },
     "so": {
         "title": "Sida loo isticmaalo",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Dhagayso dhawaaqa." },
-            { "icon": "fas fa-mouse-pointer", "text": "Guji xarfaha si aad u sameyso erayga." },
+            { "icon": "fas fa-arrow-right", "text": "U gudub erayga xiga." },
             { "icon": "fas fa-check", "text": "Hubi haddii ay sax tahay." },
             { "icon": "fas fa-undo", "text": "Dib u dejiso si aad u isku daydo." },
-            { "icon": "fas fa-arrow-right", "text": "U gudub erayga xiga." }
+            { "icon": "fas fa-lightbulb", "text": "Hel caawimaad ama tilmaamo." }
         ]
     },
     "az": {
         "title": "Necə istifadə etmək",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Tələffüzü dinlə." },
-            { "icon": "fas fa-mouse-pointer", "text": "Söz yaratmaq üçün hərflərə kliklə." },
+            { "icon": "fas fa-arrow-right", "text": "Növbəti sözə keç." },
             { "icon": "fas fa-check", "text": "Düzgün olub olmadığını yoxla." },
             { "icon": "fas fa-undo", "text": "Yenidən cəhd etmək üçün sıfırla." },
-            { "icon": "fas fa-arrow-right", "text": "Növbəti sözə keç." }
+            { "icon": "fas fa-lightbulb", "text": "Kömək və ya məsləhət alın." }
         ]
     },
     "ug": {
         "title": "قانداق ئىشلىتىش",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "تەلەپپۇزنى ئاڭلاڭ." },
-            { "icon": "fas fa-mouse-pointer", "text": "سۆز ياساش ئۈچۈن ھەرپلەرنى چېكىڭ." },
+            { "icon": "fas fa-arrow-right", "text": "كېيىنكى سۆزگە يۆتكەل." },
             { "icon": "fas fa-check", "text": "توغرا ياكى يوقلۇقىنى تەكشۈرۈڭ." },
             { "icon": "fas fa-undo", "text": "قايتا سىناش ئۈچۈن قايتا تەڭشەڭ." },
-            { "icon": "fas fa-arrow-right", "text": "كېيىنكى سۆزگە يۆتكەل." }
+            { "icon": "fas fa-lightbulb", "text": "ياردەم ياكى مەسلىھەت ئالىڭ." }
         ]
     },
     "wo": {
         "title": "Naka nga laaj",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Dégg baat bi." },
-            { "icon": "fas fa-mouse-pointer", "text": "Tàmbalee mbind mi ngir def baat bi." },
+            { "icon": "fas fa-arrow-right", "text": "Demal ci baat bi ci des." },
             { "icon": "fas fa-check", "text": "Seetlu nu baat bi dëgg la." },
             { "icon": "fas fa-undo", "text": "Dib delloo ngir jëfandikoo." },
-            { "icon": "fas fa-arrow-right", "text": "Demal ci baat bi ci des." }
+            { "icon": "fas fa-lightbulb", "text": "Gis jàppalekkati walla xel." }
         ]
     },
     "cs": {
         "title": "Jak používat",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Poslechněte si výslovnost." },
-            { "icon": "fas fa-mouse-pointer", "text": "Klikněte na písmena, abyste vytvořili slovo." },
+            { "icon": "fas fa-arrow-right", "text": "Přejděte na další slovo." },
             { "icon": "fas fa-check", "text": "Zkontrolujte, zda je to správné." },
             { "icon": "fas fa-undo", "text": "Resetujte a zkuste to znovu." },
-            { "icon": "fas fa-arrow-right", "text": "Přejděte na další slovo." }
+            { "icon": "fas fa-lightbulb", "text": "Získejte pomoc nebo tipy." }
         ]
     },
     "el": {
         "title": "Πώς να χρησιμοποιήσετε",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Ακούστε την προφορά." },
-            { "icon": "fas fa-mouse-pointer", "text": "Κάντε κλικ στα γράμματα για να σχηματίσετε τη λέξη." },
+            { "icon": "fas fa-arrow-right", "text": "Προχωρήστε στην επόμενη λέξη." },
             { "icon": "fas fa-check", "text": "Ελέγξτε αν είναι σωστό." },
             { "icon": "fas fa-undo", "text": "Επαναφέρετε για να δοκιμάσετε ξανά." },
-            { "icon": "fas fa-arrow-right", "text": "Προχωρήστε στην επόμενη λέξη." }
+            { "icon": "fas fa-lightbulb", "text": "Λάβετε βοήθεια ή συμβουλές." }
         ]
     },
     "hu": {
         "title": "Hogyan kell használni",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Hallgassa meg a kiejtést." },
-            { "icon": "fas fa-mouse-pointer", "text": "Kattintson a betűkre a szó létrehozásához." },
+            { "icon": "fas fa-arrow-right", "text": "Lépjen a következő szóra." },
             { "icon": "fas fa-check", "text": "Ellenőrizze, hogy helyes-e." },
             { "icon": "fas fa-undo", "text": "Állítsa vissza, hogy újra próbálja." },
-            { "icon": "fas fa-arrow-right", "text": "Lépjen a következő szóra." }
+            { "icon": "fas fa-lightbulb", "text": "Segítség vagy tippek kérése." }
         ]
     },
     "ro": {
         "title": "Cum să folosești",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Ascultați pronunția." },
-            { "icon": "fas fa-mouse-pointer", "text": "Faceți clic pe litere pentru a forma cuvântul." },
+            { "icon": "fas fa-arrow-right", "text": "Treceți la următorul cuvânt." },
             { "icon": "fas fa-check", "text": "Verificați dacă este corect." },
             { "icon": "fas fa-undo", "text": "Resetați pentru a încerca din nou." },
-            { "icon": "fas fa-arrow-right", "text": "Treceți la următorul cuvânt." }
+            { "icon": "fas fa-lightbulb", "text": "Obțineți ajutor sau sfaturi." }
         ]
     },
     "fi": {
         "title": "Käyttöohje",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Kuuntele ääntämys." },
-            { "icon": "fas fa-mouse-pointer", "text": "Napsauta kirjaimia muodostaaksesi sanan." },
+            { "icon": "fas fa-arrow-right", "text": "Siirry seuraavaan sanaan." },
             { "icon": "fas fa-check", "text": "Tarkista, onko se oikein." },
             { "icon": "fas fa-undo", "text": "Nollaa ja yritä uudelleen." },
-            { "icon": "fas fa-arrow-right", "text": "Siirry seuraavaan sanaan." }
+            { "icon": "fas fa-lightbulb", "text": "Hanki apua tai vinkkejä." }
         ]
     },
+{
     "da": {
         "title": "Sådan bruges",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Lyt til udtalen." },
-            { "icon": "fas fa-mouse-pointer", "text": "Klik på bogstaverne for at danne ordet." },
+            { "icon": "fas fa-arrow-right", "text": "Gå til næste ord." },
             { "icon": "fas fa-check", "text": "Kontroller, om det er korrekt." },
             { "icon": "fas fa-undo", "text": "Nulstil for at prøve igen." },
-            { "icon": "fas fa-arrow-right", "text": "Gå til næste ord." }
+            { "icon": "fas fa-lightbulb", "text": "Få hjælp eller tips." }
         ]
     },
     "no": {
         "title": "Hvordan bruke",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Lytt til uttalen." },
-            { "icon": "fas fa-mouse-pointer", "text": "Klikk på bokstavene for å danne ordet." },
+            { "icon": "fas fa-arrow-right", "text": "Gå til neste ord." },
             { "icon": "fas fa-check", "text": "Sjekk om det er riktig." },
             { "icon": "fas fa-undo", "text": "Tilbakestill for å prøve på nytt." },
-            { "icon": "fas fa-arrow-right", "text": "Gå til neste ord." }
+            { "icon": "fas fa-lightbulb", "text": "Få hjelp eller tips." }
         ]
     },
     "sk": {
         "title": "Ako používať",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Vypočujte si výslovnosť." },
-            { "icon": "fas fa-mouse-pointer", "text": "Kliknite na písmená, aby ste vytvorili slovo." },
+            { "icon": "fas fa-arrow-right", "text": "Prejdite na ďalšie slovo." },
             { "icon": "fas fa-check", "text": "Skontrolujte, či je to správne." },
             { "icon": "fas fa-undo", "text": "Obnovte a skúste to znova." },
-            { "icon": "fas fa-arrow-right", "text": "Prejdite na ďalšie slovo." }
+            { "icon": "fas fa-lightbulb", "text": "Získajte pomoc alebo tipy." }
         ]
     },
     "bg": {
         "title": "Как да използвате",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Слушайте произношението." },
-            { "icon": "fas fa-mouse-pointer", "text": "Кликнете върху буквите, за да образувате думата." },
+            { "icon": "fas fa-arrow-right", "text": "Преминете към следващата дума." },
             { "icon": "fas fa-check", "text": "Проверете дали е правилно." },
             { "icon": "fas fa-undo", "text": "Нулирайте, за да опитате отново." },
-            { "icon": "fas fa-arrow-right", "text": "Преминете към следващата дума." }
+            { "icon": "fas fa-lightbulb", "text": "Получете помощ или съвети." }
         ]
     },
     "hr": {
         "title": "Kako koristiti",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Slušajte izgovor." },
-            { "icon": "fas fa-mouse-pointer", "text": "Kliknite na slova da biste formirali riječ." },
+            { "icon": "fas fa-arrow-right", "text": "Prijeđite na sljedeću riječ." },
             { "icon": "fas fa-check", "text": "Provjerite je li točno." },
             { "icon": "fas fa-undo", "text": "Resetirajte za ponovni pokušaj." },
-            { "icon": "fas fa-arrow-right", "text": "Prijeđite na sljedeću riječ." }
+            { "icon": "fas fa-lightbulb", "text": "Dobite pomoć ili savjete." }
         ]
     },
     "lt": {
         "title": "Kaip naudotis",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Klausykite tarimo." },
-            { "icon": "fas fa-mouse-pointer", "text": "Spustelėkite raides, kad sudarytumėte žodį." },
+            { "icon": "fas fa-arrow-right", "text": "Pereikite prie kito žodžio." },
             { "icon": "fas fa-check", "text": "Patikrinkite, ar teisinga." },
             { "icon": "fas fa-undo", "text": "Atstatykite, kad bandytumėte dar kartą." },
-            { "icon": "fas fa-arrow-right", "text": "Pereikite prie kito žodžio." }
+            { "icon": "fas fa-lightbulb", "text": "Gaukite pagalbos ar patarimų." }
         ]
     },
     "sl": {
         "title": "Kako uporabljati",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Poslušajte izgovorjavo." },
-            { "icon": "fas fa-mouse-pointer", "text": "Kliknite na črke, da oblikujete besedo." },
+            { "icon": "fas fa-arrow-right", "text": "Pojdite na naslednjo besedo." },
             { "icon": "fas fa-check", "text": "Preverite, ali je pravilno." },
             { "icon": "fas fa-undo", "text": "Ponastavite za ponovni poskus." },
-            { "icon": "fas fa-arrow-right", "text": "Pojdite na naslednjo besedo." }
+            { "icon": "fas fa-lightbulb", "text": "Pridobite pomoč ali nasvete." }
         ]
     },
     "lv": {
         "title": "Kā lietot",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Klausieties izrunu." },
-            { "icon": "fas fa-mouse-pointer", "text": "Noklikšķiniet uz burtiem, lai izveidotu vārdu." },
+            { "icon": "fas fa-arrow-right", "text": "Pārejiet uz nākamo vārdu." },
             { "icon": "fas fa-check", "text": "Pārbaudiet, vai tas ir pareizi." },
             { "icon": "fas fa-undo", "text": "Atiestatiet, lai mēģinātu vēlreiz." },
-            { "icon": "fas fa-arrow-right", "text": "Pārejiet uz nākamo vārdu." }
+            { "icon": "fas fa-lightbulb", "text": "Iegūstiet palīdzību vai padomus." }
         ]
     },
     "et": {
         "title": "Kuidas kasutada",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Kuulake hääldust." },
-            { "icon": "fas fa-mouse-pointer", "text": "Klõpsake tähti, et moodustada sõna." },
+            { "icon": "fas fa-arrow-right", "text": "Minge järgmise sõna juurde." },
             { "icon": "fas fa-check", "text": "Kontrollige, kas see on õige." },
             { "icon": "fas fa-undo", "text": "Lähtestage, et proovida uuesti." },
-            { "icon": "fas fa-arrow-right", "text": "Minge järgmise sõna juurde." }
+            { "icon": "fas fa-lightbulb", "text": "Hankige abi või näpunäiteid." }
         ]
     },
     "mt": {
         "title": "Kif Tuża",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Isma l-pronunzja." },
-            { "icon": "fas fa-mouse-pointer", "text": "Ikklikkja l-ittri biex toħloq il-kelma." },
+            { "icon": "fas fa-arrow-right", "text": "Mur għall-kelma li jmiss." },
             { "icon": "fas fa-check", "text": "Iċċekkja jekk hix korretta." },
             { "icon": "fas fa-undo", "text": "Irrisettja biex terġa' tipprova." },
-            { "icon": "fas fa-arrow-right", "text": "Mur għall-kelma li jmiss." }
+            { "icon": "fas fa-lightbulb", "text": "Ikseb għajnuna jew pariri." }
         ]
     },
     "is": {
         "title": "Hvernig á að nota",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Hlustaðu á framburðinn." },
-            { "icon": "fas fa-mouse-pointer", "text": "Smelltu á bókstafina til að mynda orðið." },
+            { "icon": "fas fa-arrow-right", "text": "Farðu í næsta orð." },
             { "icon": "fas fa-check", "text": "Athugaðu hvort það sé rétt." },
             { "icon": "fas fa-undo", "text": "Endurstilla til að reyna aftur." },
-            { "icon": "fas fa-arrow-right", "text": "Farðu í næsta orð." }
+            { "icon": "fas fa-lightbulb", "text": "Fáðu hjálp eða ábendingar." }
         ]
     },
     "ga": {
