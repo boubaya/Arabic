@@ -943,205 +943,205 @@
             { "icon": "fas fa-lightbulb", "text": "Jwenn èd oswa konsèy." }
         ]
     },
+{
     "lb": {
         "title": "Wéi benotzen",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Lauschtert d'Aussprooch." },
-            { "icon": "fas fa-mouse-pointer", "text": "Klickt op d'Buschtawen fir d'Wort ze bilden." },
+            { "icon": "fas fa-arrow-right", "text": "Gitt op dat nächst Wuert." },
             { "icon": "fas fa-check", "text": "Kuckt no ob et richteg ass." },
             { "icon": "fas fa-undo", "text": "Zrécksetzen fir nach eng Kéier ze probéieren." },
-            { "icon": "fas fa-arrow-right", "text": "Gitt op dat nächst Wuert." }
+            { "icon": "fas fa-lightbulb", "text": "Kritt Hëllef oder Tipps." }
         ]
     },
     "mi": {
         "title": "Me pēhea te whakamahi",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Whakarongo ki te whakaputa." },
-            { "icon": "fas fa-mouse-pointer", "text": "Pāwhiri ki ngā reta hei hanga i te kupu." },
+            { "icon": "fas fa-arrow-right", "text": "Haere ki te kupu ka whai ake." },
             { "icon": "fas fa-check", "text": "Tirohia mehemea he tika." },
             { "icon": "fas fa-undo", "text": "Tautuhi anō kia ngana anō." },
-            { "icon": "fas fa-arrow-right", "text": "Haere ki te kupu ka whai ake." }
+            { "icon": "fas fa-lightbulb", "text": "Tīkina he āwhina, he tohutohu rānei." }
         ]
     },
     "sm": {
         "title": "Faʻafefea ona faʻaoga",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Faʻalogo i le faʻaleoga." },
-            { "icon": "fas fa-mouse-pointer", "text": "Kiliki mataitusi e fausia ai le upu." },
+            { "icon": "fas fa-arrow-right", "text": "Alu i le isi upu." },
             { "icon": "fas fa-check", "text": "Siaki pe saʻo." },
             { "icon": "fas fa-undo", "text": "Toe seti e toe taumafai." },
-            { "icon": "fas fa-arrow-right", "text": "Alu i le isi upu." }
+            { "icon": "fas fa-lightbulb", "text": "Maua se fesoasoani poʻo ni fautuaga." }
         ]
     },
     "to": {
         "title": "Fefe hoko",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Fakalogo ki le leo." },
-            { "icon": "fas fa-mouse-pointer", "text": "Kiliki ki he ngaahi lea ke fokotuʻu ai ha lea." },
+            { "icon": "fas fa-arrow-right", "text": "Alu ki he lea hoko." },
             { "icon": "fas fa-check", "text": "Siviʻi kapau ʻoku tonu." },
             { "icon": "fas fa-undo", "text": "Toe seti ke toe lava." },
-            { "icon": "fas fa-arrow-right", "text": "Alu ki he lea hoko." }
+            { "icon": "fas fa-lightbulb", "text": "Maua ha tokoni pe fakamatala." }
         ]
     },
     "tt": {
         "title": "Ничек кулланырга",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Тәфсирне тыңлагыз." },
-            { "icon": "fas fa-mouse-pointer", "text": "Сүзне ясау өчен хәрефләргә басыгыз." },
+            { "icon": "fas fa-arrow-right", "text": "Киләсе сүзгә күчегез." },
             { "icon": "fas fa-check", "text": "Дөреслеген тикшерегез." },
             { "icon": "fas fa-undo", "text": "Кабатлап карау өчен яңадан көйләгез." },
-            { "icon": "fas fa-arrow-right", "text": "Киләсе сүзгә күчегез." }
+            { "icon": "fas fa-lightbulb", "text": "Ярдәм яки киңәш алыгыз." }
         ]
     },
     "tw": {
         "title": "Ɛkwan a ɛsɛ sɛ wode di dwuma",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Tie ɔkasɛm no." },
-            { "icon": "fas fa-mouse-pointer", "text": "Klik wɔ nkyerɛwee no so na bɔ abodin." },
+            { "icon": "fas fa-arrow-right", "text": "Kɔ abodin a edi hɔ." },
             { "icon": "fas fa-check", "text": "Hwɛ sɛ ɛyɛ nokware anaa." },
             { "icon": "fas fa-undo", "text": "San yɛ bio." },
-            { "icon": "fas fa-arrow-right", "text": "Kɔ abodin a edi hɔ." }
+            { "icon": "fas fa-lightbulb", "text": "Nyɛ mmoa anaa nkyerɛkyerɛmu." }
         ]
     },
     "fj": {
         "title": "Vakayagataki Vakacava",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Rogoca na vosa." },
-            { "icon": "fas fa-mouse-pointer", "text": "Clic ni matanivola me buli na vosa." },
+            { "icon": "fas fa-arrow-right", "text": "Lako ki na vosa ka tarava." },
             { "icon": "fas fa-check", "text": "Dikeva ke sa donu." },
             { "icon": "fas fa-undo", "text": "Vakalesui tale me tovolea tale." },
-            { "icon": "fas fa-arrow-right", "text": "Lako ki na vosa ka tarava." }
+            { "icon": "fas fa-lightbulb", "text": "Kerea veivuke se vakasama." }
         ]
     },
     "mg": {
         "title": "Fomba fampiasana",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Henoy ny fanononana." },
-            { "icon": "fas fa-mouse-pointer", "text": "Tsindrio ny litera hamoronana teny." },
+            { "icon": "fas fa-arrow-right", "text": "Mandrosoa amin'ny teny manaraka." },
             { "icon": "fas fa-check", "text": "Jereo raha marina." },
             { "icon": "fas fa-undo", "text": "Avereno mba hiezahana indray." },
-            { "icon": "fas fa-arrow-right", "text": "Mandrosoa amin'ny teny manaraka." }
+            { "icon": "fas fa-lightbulb", "text": "Mahazoa fanampiana na torohevitra." }
         ]
     },
     "prs": {
         "title": "چگونه استفاده کنیم",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "تلفظ را گوش دهید." },
-            { "icon": "fas fa-mouse-pointer", "text": "برای تشکیل کلمه روی حروف کلیک کنید." },
+            { "icon": "fas fa-arrow-right", "text": "به کلمه بعدی بروید." },
             { "icon": "fas fa-check", "text": "بررسی کنید که درست است یا نه." },
             { "icon": "fas fa-undo", "text": "برای تلاش مجدد، بازنشانی کنید." },
-            { "icon": "fas fa-arrow-right", "text": "به کلمه بعدی بروید." }
+            { "icon": "fas fa-lightbulb", "text": "کمک یا راهنمایی دریافت کنید." }
         ]
     },
     "haw": {
         "title": "Pehea e hoʻohana ai",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "E hoʻolohe i ka ʻōlelo." },
-            { "icon": "fas fa-mouse-pointer", "text": "Kaomi i nā leka e hana i ka huaʻōlelo." },
+            { "icon": "fas fa-arrow-right", "text": "E hele i ka huaʻōlelo aʻe." },
             { "icon": "fas fa-check", "text": "E nānā inā pololei." },
             { "icon": "fas fa-undo", "text": "Hoʻomaka hou e hoʻāʻo hou ai." },
-            { "icon": "fas fa-arrow-right", "text": "E hele i ka huaʻōlelo aʻe." }
+            { "icon": "fas fa-lightbulb", "text": "Loaʻa i ke kōkua a i ʻole nā ʻōlelo aʻoaʻo." }
         ]
     },
     "hmn-daw": {
         "title": "Yuav Siv Li Cas",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Mloog koj lub suab." },
-            { "icon": "fas fa-mouse-pointer", "text": "Nyem cov tsiaj ntawv los tsim lub npe." },
+            { "icon": "fas fa-arrow-right", "text": "Mus rau lub npe tom qab." },
             { "icon": "fas fa-check", "text": "Saib yog tsis yog." },
             { "icon": "fas fa-undo", "text": "Tawm tawm dua los sim dua." },
-            { "icon": "fas fa-arrow-right", "text": "Mus rau lub npe tom qab." }
+            { "icon": "fas fa-lightbulb", "text": "Tau kev pab los yog qhia." }
         ]
     },
     "syl": {
         "title": "কিভাবে ব্যবহার করবেন",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "উচ্চারণ শুনুন।" },
-            { "icon": "fas fa-mouse-pointer", "text": "শব্দ তৈরি করতে অক্ষরে ক্লিক করুন।" },
+            { "icon": "fas fa-arrow-right", "text": "পরবর্তী শব্দে যান।" },
             { "icon": "fas fa-check", "text": "সঠিক কিনা পরীক্ষা করুন।" },
             { "icon": "fas fa-undo", "text": "পুনরায় চেষ্টা করুন।" },
-            { "icon": "fas fa-arrow-right", "text": "পরবর্তী শব্দে যান।" }
+            { "icon": "fas fa-lightbulb", "text": "সাহায্য বা পরামর্শ পান।" }
         ]
     },
     "mag": {
         "title": "कसरी उपयोग करें",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "उच्चारण सुनें।" },
-            { "icon": "fas fa-mouse-pointer", "text": "शब्द बनाने के लिए अक्षरों पर क्लिक करें।" },
+            { "icon": "fas fa-arrow-right", "text": "अगले शब्द पर जाएं।" },
             { "icon": "fas fa-check", "text": "जांचें कि सही है या नहीं।" },
             { "icon": "fas fa-undo", "text": "रीसेट करके फिर से कोशिश करें।" },
-            { "icon": "fas fa-arrow-right", "text": "अगले शब्द पर जाएं।" }
+            { "icon": "fas fa-lightbulb", "text": "मदद या सुझाव प्राप्त करें।" }
         ]
     },
     "hne": {
         "title": "कैसे उपयोग करें",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "उच्चारण सुनें।" },
-            { "icon": "fas fa-mouse-pointer", "text": "शब्द बनाने के लिए अक्षरों पर क्लिक करें।" },
+            { "icon": "fas fa-arrow-right", "text": "अगले शब्द पर जाएं।" },
             { "icon": "fas fa-check", "text": "जांचें कि सही है या नहीं।" },
             { "icon": "fas fa-undo", "text": "रीसेट करके फिर से कोशिश करें।" },
-            { "icon": "fas fa-arrow-right", "text": "अगले शब्द पर जाएं।" }
+            { "icon": "fas fa-lightbulb", "text": "मदद या संकेत प्राप्त करें।" }
         ]
     },
     "mwr": {
         "title": "कसरी उपयोग करै",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "उच्चारण सुनौ।" },
-            { "icon": "fas fa-mouse-pointer", "text": "शब्द बनावै खातर अक्षरां पर क्लिक करो।" },
+            { "icon": "fas fa-arrow-right", "text": "अगले शब्द पर जाओ।" },
             { "icon": "fas fa-check", "text": "साचो है कि नाई जांचो।" },
             { "icon": "fas fa-undo", "text": "रीसेट कर पुनः प्रयास करो।" },
-            { "icon": "fas fa-arrow-right", "text": "अगले शब्द पर जाओ।" }
+            { "icon": "fas fa-lightbulb", "text": "मदद या सलाह प्राप्त करो।" }
         ]
     },
     "bho": {
         "title": "कइसन उपयोग करी",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "उच्चारण सुनीं।" },
-            { "icon": "fas fa-mouse-pointer", "text": "शब्द बनावे खातिर अक्षरन प क्लिक करीं।" },
+            { "icon": "fas fa-arrow-right", "text": "अगिला शब्द प जाईं।" },
             { "icon": "fas fa-check", "text": "जांच करीं कि सही बा कि नइखे।" },
             { "icon": "fas fa-undo", "text": "रीसेट करीं आ फेर कोशिश करीं।" },
-            { "icon": "fas fa-arrow-right", "text": "अगिला शब्द प जाईं।" }
+            { "icon": "fas fa-lightbulb", "text": "मदद या सलाह पाईं।" }
         ]
     },
     "awa": {
         "title": "कैसे इस्तेमाल करें",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "उच्चारण सुनें।" },
-            { "icon": "fas fa-mouse-pointer", "text": "शब्द बनाने के लिए अक्षरों पर क्लिक करें।" },
+            { "icon": "fas fa-arrow-right", "text": "अगले शब्द पर जाएं।" },
             { "icon": "fas fa-check", "text": "सही है या नहीं देखें।" },
             { "icon": "fas fa-undo", "text": "फिर से प्रयास करने के लिए रीसेट करें।" },
-            { "icon": "fas fa-arrow-right", "text": "अगले शब्द पर जाएं।" }
+            { "icon": "fas fa-lightbulb", "text": "मदद या सलाह प्राप्त करें।" }
         ]
     },
     "skr": {
         "title": "کیونکر استعمال کرنا ہے",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "تلفظ سنیں۔" },
-            { "icon": "fas fa-mouse-pointer", "text": "لفظ بنانے کے لیے حروف پر کلک کریں۔" },
+            { "icon": "fas fa-arrow-right", "text": "اگلے لفظ پر جائیں۔" },
             { "icon": "fas fa-check", "text": "درستگی چیک کریں۔" },
             { "icon": "fas fa-undo", "text": "دوبارہ کوشش کریں۔" },
-            { "icon": "fas fa-arrow-right", "text": "اگلے لفظ پر جائیں۔" }
+            { "icon": "fas fa-lightbulb", "text": "مدد یا مشورہ حاصل کریں۔" }
         ]
     },
     "mni": {
         "title": "কদুমা লেনবা",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "উচ্চারণ অমৎকোমসু।" },
-            { "icon": "fas fa-mouse-pointer", "text": "শব্দ সিংব তমাক্কীদিনা অক্ষর তমক্লিক করো।" },
+            { "icon": "fas fa-arrow-right", "text": "নুপা শব্দদা চাও।" },
             { "icon": "fas fa-check", "text": "সরি অমা তোদুনবা নতোক।" },
             { "icon": "fas fa-undo", "text": "পুনরায় চেষ্টা করনিবা।" },
-            { "icon": "fas fa-arrow-right", "text": "নুপা শব্দদা চাও।" }
+            { "icon": "fas fa-lightbulb", "text": "সহায়তা বা পরামর্শ পাও।" }
         ]
     },
     "tsb": {
         "title": "Jinsi ya Kutumia",
         "steps": [
             { "icon": "fas fa-volume-up", "text": "Sikiliza matamshi." },
-            { "icon": "fas fa-mouse-pointer", "text": "Bonyeza herufi kuunda neno." },
+            { "icon": "fas fa-arrow-right", "text": "Nenda kwenye neno lingine." },
             { "icon": "fas fa-check", "text": "Angalia ikiwa ni sahihi." },
             { "icon": "fas fa-undo", "text": "Weka upya ili kujaribu tena." },
-            { "icon": "fas fa-arrow-right", "text": "Nenda kwenye neno lingine." }
+            { "icon": "fas fa-lightbulb", "text": "Pata msaada au vidokezo." }
         ]
     }
 }
-
