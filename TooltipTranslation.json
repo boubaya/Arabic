@@ -1139,26 +1139,6 @@
             { "icon": "fas fa-lightbulb", "text": "Pata msaada au vidokezo." }
         ]
     },
-    "ha": {
-    "title": "Yadda ake Amfani",
-    "steps": [
-        { "icon": "fas fa-volume-up", "text": "Saurari furcin." },
-        { "icon": "fas fa-arrow-right", "text": "Motsa zuwa kalma ta gaba." },
-        { "icon": "fas fa-check", "text": "Duba idan daidai ne." },
-        { "icon": "fas fa-undo", "text": "Sake saita don ƙoƙarin sakewa." },
-        { "icon": "fas fa-lightbulb", "text": "Samu taimako ko nasihu." }
-        ]
-    },
-"xh": {
-    "title": "Indlela Yokusebenzisa",
-    "steps": [
-        { "icon": "fas fa-volume-up", "text": "Mamela uphimbo." },
-        { "icon": "fas fa-arrow-right", "text": "Yiya kwelizwi elilandelayo." },
-        { "icon": "fas fa-check", "text": "Qinisekisa ukuba lichanile." },
-        { "icon": "fas fa-undo", "text": "Hlela kwakhona ukuze uzame kwakhona." },
-        { "icon": "fas fa-lightbulb", "text": "Fumana uncedo okanye iingcebiso." }
-        ]
-    },
 "ku-sor": {
     "title": "چۆن بەکاربهێنن",
     "steps": [
@@ -1177,26 +1157,6 @@
         { "icon": "fas fa-check", "text": "Semak jika betul." },
         { "icon": "fas fa-undo", "text": "Tetapkan semula untuk mencuba lagi." },
         { "icon": "fas fa-lightbulb", "text": "Dapatkan bantuan atau petua." }
-        ]
-    },
-"uz": {
-    "title": "Qanday foydalanish kerak",
-    "steps": [
-        { "icon": "fas fa-volume-up", "text": "Talaffuzni tinglang." },
-        { "icon": "fas fa-arrow-right", "text": "Keyingi so‘zga o‘ting." },
-        { "icon": "fas fa-check", "text": "To‘g‘ri yoki yo‘qligini tekshiring." },
-        { "icon": "fas fa-undo", "text": "Qayta urinib ko‘rish uchun qayta sozlang." },
-        { "icon": "fas fa-lightbulb", "text": "Yordam yoki maslahat oling." }
-        ]
-    },
-"sd": {
-    "title": "ڪيئن استعمال ڪجي",
-    "steps": [
-        { "icon": "fas fa-volume-up", "text": "تلفظ ٻڌو." },
-        { "icon": "fas fa-arrow-right", "text": "اڳيون لفظ ڏانهن وڃو." },
-        { "icon": "fas fa-check", "text": "چيڪ ڪريو ته صحيح آهي." },
-        { "icon": "fas fa-undo", "text": "ٻيهر ڪوشش ڪرڻ لاءِ ري سيٽ ڪريو." },
-        { "icon": "fas fa-lightbulb", "text": "مدد يا اشارا حاصل ڪريو." }
         ]
     }
 }
