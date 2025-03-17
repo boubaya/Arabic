@@ -256,3 +256,7 @@
 جِمال|https://example.com/audio/.mp3
 ماعِز|https://example.com/audio/.mp3
 مَعيز|https://example.com/audio/.mp3
+خِنْزير|https://example.com/audio/.mp3
+خَنازير|https://example.com/audio/.mp3
+أَرْنَب|https://example.com/audio/.mp3
+أَرانِب|https://example.com/audio/.mp3
