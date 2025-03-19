@@ -234,4 +234,4 @@
 خِنْزير|https://example.com/audio/.mp3
 أَرانِب|https://example.com/audio/.mp3
 فَأْر|https://example.com/audio/.mp3
-فَأْر|https://example.com/audio/.mp3
+غَزال|https://example.com/audio/.mp3
