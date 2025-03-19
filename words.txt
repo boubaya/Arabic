@@ -192,7 +192,7 @@
 ظُلْم|https://example.com/audio/zulm.mp3
 حَقّ|https://example.com/audio/haqq.mp3
 باطِل|https://example.com/audio/batil.mp3
-حَيَاة|https://example.com/audio/hayah.mp3
+حَياة|https://example.com/audio/hayah.mp3
 مَوْت|https://example.com/audio/mawt.mp3
 صِحَّة|https://example.com/audio/sihha.mp3
 مَرَض|https://example.com/audio/marad.mp3
