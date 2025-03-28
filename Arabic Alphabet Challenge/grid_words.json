@@ -42,8 +42,5 @@
       "col": 3,
       "number": 5
     }
-    // Add more words here following the same structure
-    // Make sure their placements don't conflict incorrectly
-    // e.g., { "word": "يد", "clue": "جزء من الذراع", "direction": "down", "row": 1, "col": 4, "number": 6 }
-  ]
+ ]
 }
