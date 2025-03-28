@@ -1,281 +1,281 @@
 [
-  {
-    "id": 1,
-    "letter": "ا",
-    "name": "Alif",
-    "transliteration": "a / ā",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/alif.mp3",
-    "example_word": "أَسَد",
-    "example_translation": "Lion"
-  },
-  {
-    "id": 2,
-    "letter": "ب",
-    "name": "Ba",
-    "transliteration": "b",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/ba.mp3",
-    "example_word": "بَاب",
-    "example_translation": "Door"
-  },
-  {
-    "id": 3,
-    "letter": "ت",
-    "name": "Ta",
-    "transliteration": "t",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/ta.mp3",
-    "example_word": "تُفَّاح",
-    "example_translation": "Apple"
-  },
-  {
-    "id": 4,
-    "letter": "ث",
-    "name": "Tha",
-    "transliteration": "th",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/tha.mp3",
-    "example_word": "ثَوْب",
-    "example_translation": "Garment"
-  },
-  {
-    "id": 5,
-    "letter": "ج",
-    "name": "Jim",
-    "transliteration": "j",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/jim.mp3",
-    "example_word": "جَمَل",
-    "example_translation": "Camel"
-  },
-  {
-    "id": 6,
-    "letter": "ح",
-    "name": "Ha",
-    "transliteration": "ḥ",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/ha.mp3",
-    "example_word": "حُوت",
-    "example_translation": "Whale"
-  },
-  {
-    "id": 7,
-    "letter": "خ",
-    "name": "Kha",
-    "transliteration": "kh",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/kha.mp3",
-    "example_word": "خُبْز",
-    "example_translation": "Bread"
-  },
-  {
-    "id": 8,
-    "letter": "د",
-    "name": "Dal",
-    "transliteration": "d",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/dal.mp3",
-    "example_word": "دُبّ",
-    "example_translation": "Bear"
-  },
-  {
-    "id": 9,
-    "letter": "ذ",
-    "name": "Dhal",
-    "transliteration": "dh",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/dhal.mp3",
-    "example_word": "ذَهَب",
-    "example_translation": "Gold"
-  },
-  {
-    "id": 10,
-    "letter": "ر",
-    "name": "Ra",
-    "transliteration": "r",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/ra.mp3",
-    "example_word": "رَجُل",
-    "example_translation": "Man"
-  },
-  {
-    "id": 11,
-    "letter": "ز",
-    "name": "Zain",
-    "transliteration": "z",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/zain.mp3",
-    "example_word": "زَهْرَة",
-    "example_translation": "Flower"
-  },
-  {
-    "id": 12,
-    "letter": "س",
-    "name": "Sin",
-    "transliteration": "s",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/sin.mp3",
-    "example_word": "سَمَك",
-    "example_translation": "Fish"
-  },
-  {
-    "id": 13,
-    "letter": "ش",
-    "name": "Shin",
-    "transliteration": "sh",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/shin.mp3",
-    "example_word": "شَمْس",
-    "example_translation": "Sun"
-  },
-  {
-    "id": 14,
-    "letter": "ص",
-    "name": "Sad",
-    "transliteration": "ṣ",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/sad.mp3",
-    "example_word": "صَقْر",
-    "example_translation": "Falcon"
-  },
-  {
-    "id": 15,
-    "letter": "ض",
-    "name": "Dad",
-    "transliteration": "ḍ",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/dad.mp3",
-    "example_word": "ضِفْدَع",
-    "example_translation": "Frog"
-  },
-  {
-    "id": 16,
-    "letter": "ط",
-    "name": "Ta",
-    "transliteration": "ṭ",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/taa.mp3",
-    "example_word": "طَائِرَة",
-    "example_translation": "Airplane"
-  },
-  {
-    "id": 17,
-    "letter": "ظ",
-    "name": "Dha",
-    "transliteration": "ẓ",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/dha.mp3",
-    "example_word": "ظَرْف",
-    "example_translation": "Envelope"
-  },
-  {
-    "id": 18,
-    "letter": "ع",
-    "name": "Ain",
-    "transliteration": "ʿ",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/ain.mp3",
-    "example_word": "عَيْن",
-    "example_translation": "Eye"
-  },
-  {
-    "id": 19,
-    "letter": "غ",
-    "name": "Ghain",
-    "transliteration": "gh",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/ghain.mp3",
-    "example_word": "غُرَاب",
-    "example_translation": "Crow"
-  },
-  {
-    "id": 20,
-    "letter": "ف",
-    "name": "Fa",
-    "transliteration": "f",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/fa.mp3",
-    "example_word": "فِيل",
-    "example_translation": "Elephant"
-  },
-  {
-    "id": 21,
-    "letter": "ق",
-    "name": "Qaf",
-    "transliteration": "q",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/qaf.mp3",
-    "example_word": "قَلَم",
-    "example_translation": "Pen"
-  },
-  {
-    "id": 22,
-    "letter": "ك",
-    "name": "Kaf",
-    "transliteration": "k",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/kaf.mp3",
-    "example_word": "كِتَاب",
-    "example_translation": "Book"
-  },
-  {
-    "id": 23,
-    "letter": "ل",
-    "name": "Lam",
-    "transliteration": "l",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/lam.mp3",
-    "example_word": "لَيْمُون",
-    "example_translation": "Lemon"
-  },
-  {
-    "id": 24,
-    "letter": "م",
-    "name": "Mim",
-    "transliteration": "m",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/mim.mp3",
-    "example_word": "مِفْتَاح",
-    "example_translation": "Key"
-  },
-  {
-    "id": 25,
-    "letter": "ن",
-    "name": "Nun",
-    "transliteration": "n",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/nun.mp3",
-    "example_word": "نَجْمَة",
-    "example_translation": "Star"
-  },
-  {
-    "id": 26,
-    "letter": "ه",
-    "name": "Ha",
-    "transliteration": "h",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/haa.mp3",
-    "example_word": "هِلال",
-    "example_translation": "Crescent"
-  },
-  {
-    "id": 27,
-    "letter": "و",
-    "name": "Waw",
-    "transliteration": "w / ū",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/waw.mp3",
-    "example_word": "وَرْدَة",
-    "example_translation": "Rose"
-  },
-  {
-    "id": 28,
-    "letter": "ي",
-    "name": "Ya",
-    "transliteration": "y / ī",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/ya.mp3",
-    "example_word": "يَد",
-    "example_translation": "Hand"
-  },
-  {
-    "id": 29,
-    "letter": "ء",
-    "name": "Hamza",
-    "transliteration": "ʾ / '",
-    "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/hamza.mp3",
-    "example_word": "سَمَاء",
-    "example_translation": "Sky"
-  },
-  {
-    "id": 30,
-    "letter": "ة",
-    "name": "Ta Marbuta",
-    "transliteration": "a / at",
-    "audio_url": "", // Often silent or 'a' sound, can omit audio or use 'ta' sound
-    "example_word": "سَيَّارَة",
-    "example_translation": "Car"
-  },
-  {
-    "id": 31,
-    "letter": "ى",
-    "name": "Alif Maqsura",
-    "transliteration": "ā",
-     "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/alif_maqsura.mp3", // Sounds like Alif
-    "example_word": "مُسْتَشْفَى",
-    "example_translation": "Hospital"
-  }
+    {
+        "id": 1,
+        "letter": "ا",
+        "name": "Alif",
+        "transliteration": "a / ā",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/alif.mp3",
+        "example_word": "أَسَد",
+        "example_translation": "Lion"
+    },
+    {
+        "id": 2,
+        "letter": "ب",
+        "name": "Ba",
+        "transliteration": "b",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/ba.mp3",
+        "example_word": "بَاب",
+        "example_translation": "Door"
+    },
+    {
+        "id": 3,
+        "letter": "ت",
+        "name": "Ta",
+        "transliteration": "t",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/ta.mp3",
+        "example_word": "تُفَّاح",
+        "example_translation": "Apple"
+    },
+    {
+        "id": 4,
+        "letter": "ث",
+        "name": "Tha",
+        "transliteration": "th",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/tha.mp3",
+        "example_word": "ثَوْب",
+        "example_translation": "Garment"
+    },
+    {
+        "id": 5,
+        "letter": "ج",
+        "name": "Jim",
+        "transliteration": "j",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/jim.mp3",
+        "example_word": "جَمَل",
+        "example_translation": "Camel"
+    },
+    {
+        "id": 6,
+        "letter": "ح",
+        "name": "Ha",
+        "transliteration": "ḥ",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/ha.mp3",
+        "example_word": "حُوت",
+        "example_translation": "Whale"
+    },
+    {
+        "id": 7,
+        "letter": "خ",
+        "name": "Kha",
+        "transliteration": "kh",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/kha.mp3",
+        "example_word": "خُبْز",
+        "example_translation": "Bread"
+    },
+    {
+        "id": 8,
+        "letter": "د",
+        "name": "Dal",
+        "transliteration": "d",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/dal.mp3",
+        "example_word": "دُبّ",
+        "example_translation": "Bear"
+    },
+    {
+        "id": 9,
+        "letter": "ذ",
+        "name": "Dhal",
+        "transliteration": "dh",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/dhal.mp3",
+        "example_word": "ذَهَب",
+        "example_translation": "Gold"
+    },
+    {
+        "id": 10,
+        "letter": "ر",
+        "name": "Ra",
+        "transliteration": "r",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/ra.mp3",
+        "example_word": "رَجُل",
+        "example_translation": "Man"
+    },
+    {
+        "id": 11,
+        "letter": "ز",
+        "name": "Zain",
+        "transliteration": "z",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/zain.mp3",
+        "example_word": "زَهْرَة",
+        "example_translation": "Flower"
+    },
+    {
+        "id": 12,
+        "letter": "س",
+        "name": "Sin",
+        "transliteration": "s",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/sin.mp3",
+        "example_word": "سَمَك",
+        "example_translation": "Fish"
+    },
+    {
+        "id": 13,
+        "letter": "ش",
+        "name": "Shin",
+        "transliteration": "sh",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/shin.mp3",
+        "example_word": "شَمْس",
+        "example_translation": "Sun"
+    },
+    {
+        "id": 14,
+        "letter": "ص",
+        "name": "Sad",
+        "transliteration": "ṣ",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/sad.mp3",
+        "example_word": "صَقْر",
+        "example_translation": "Falcon"
+    },
+    {
+        "id": 15,
+        "letter": "ض",
+        "name": "Dad",
+        "transliteration": "ḍ",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/dad.mp3",
+        "example_word": "ضِفْدَع",
+        "example_translation": "Frog"
+    },
+    {
+        "id": 16,
+        "letter": "ط",
+        "name": "Ta",
+        "transliteration": "ṭ",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/taa.mp3",
+        "example_word": "طَائِرَة",
+        "example_translation": "Airplane"
+    },
+    {
+        "id": 17,
+        "letter": "ظ",
+        "name": "Dha",
+        "transliteration": "ẓ",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/dha.mp3",
+        "example_word": "ظَرْف",
+        "example_translation": "Envelope"
+    },
+    {
+        "id": 18,
+        "letter": "ع",
+        "name": "Ain",
+        "transliteration": "ʿ",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/ain.mp3",
+        "example_word": "عَيْن",
+        "example_translation": "Eye"
+    },
+    {
+        "id": 19,
+        "letter": "غ",
+        "name": "Ghain",
+        "transliteration": "gh",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/ghain.mp3",
+        "example_word": "غُرَاب",
+        "example_translation": "Crow"
+    },
+    {
+        "id": 20,
+        "letter": "ف",
+        "name": "Fa",
+        "transliteration": "f",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/fa.mp3",
+        "example_word": "فِيل",
+        "example_translation": "Elephant"
+    },
+    {
+        "id": 21,
+        "letter": "ق",
+        "name": "Qaf",
+        "transliteration": "q",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/qaf.mp3",
+        "example_word": "قَلَم",
+        "example_translation": "Pen"
+    },
+    {
+        "id": 22,
+        "letter": "ك",
+        "name": "Kaf",
+        "transliteration": "k",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/kaf.mp3",
+        "example_word": "كِتَاب",
+        "example_translation": "Book"
+    },
+    {
+        "id": 23,
+        "letter": "ل",
+        "name": "Lam",
+        "transliteration": "l",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/lam.mp3",
+        "example_word": "لَيْمُون",
+        "example_translation": "Lemon"
+    },
+    {
+        "id": 24,
+        "letter": "م",
+        "name": "Mim",
+        "transliteration": "m",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/mim.mp3",
+        "example_word": "مِفْتَاح",
+        "example_translation": "Key"
+    },
+    {
+        "id": 25,
+        "letter": "ن",
+        "name": "Nun",
+        "transliteration": "n",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/nun.mp3",
+        "example_word": "نَجْمَة",
+        "example_translation": "Star"
+    },
+    {
+        "id": 26,
+        "letter": "ه",
+        "name": "Ha",
+        "transliteration": "h",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/haa.mp3",
+        "example_word": "هِلال",
+        "example_translation": "Crescent"
+    },
+    {
+        "id": 27,
+        "letter": "و",
+        "name": "Waw",
+        "transliteration": "w / ū",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/waw.mp3",
+        "example_word": "وَرْدَة",
+        "example_translation": "Rose"
+    },
+    {
+        "id": 28,
+        "letter": "ي",
+        "name": "Ya",
+        "transliteration": "y / ī",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/ya.mp3",
+        "example_word": "يَد",
+        "example_translation": "Hand"
+    },
+    {
+        "id": 29,
+        "letter": "ء",
+        "name": "Hamza",
+        "transliteration": "ʾ / '",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/hamza.mp3",
+        "example_word": "سَمَاء",
+        "example_translation": "Sky"
+    },
+    {
+        "id": 30,
+        "letter": "ة",
+        "name": "Ta Marbuta",
+        "transliteration": "a / at",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/marbuta.mp3",
+        "example_word": "سَيَّارَة",
+        "example_translation": "Car"
+    },
+    {
+        "id": 31,
+        "letter": "ى",
+        "name": "Alif Maqsura",
+        "transliteration": "ā",
+        "audio_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/audio/maqsura.mp3",
+        "example_word": "مُسْتَشْفَى",
+        "example_translation": "Hospital"
+    }
 ]
