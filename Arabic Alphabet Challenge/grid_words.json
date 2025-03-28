@@ -1,0 +1,49 @@
+{
+  "rows": 6,
+  "cols": 6,
+  "words": [
+    {
+      "word": "باب",
+      "clue": "مدخل البيت",
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "number": 1
+    },
+    {
+      "word": "بيت",
+      "clue": "مكان السكن",
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "number": 2
+    },
+    {
+      "word": "قلم",
+      "clue": "نكتب به",
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "number": 3
+    },
+    {
+      "word": "ام",
+      "clue": "الوالدة",
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "number": 4
+    },
+    {
+      "word": "فم",
+      "clue": "نأكل ونتكلم به",
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "number": 5
+    }
+    // Add more words here following the same structure
+    // Make sure their placements don't conflict incorrectly
+    // e.g., { "word": "يد", "clue": "جزء من الذراع", "direction": "down", "row": 1, "col": 4, "number": 6 }
+  ]
+}
