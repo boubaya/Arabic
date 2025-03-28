@@ -1,1 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arabic Alphabet Challenge</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Recommended: Add a font that supports Arabic well -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic:wght@400;700&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="game-container">
+        <header>
+            <h1>Arabic Alphabet Challenge</h1>
+            <div class="progress-score">
+                <div id="score">Score: 0</div>
+                <div id="progress-bar-container">
+                    <div id="progress-bar"></div>
+                </div>
+                <div id="progress-text">0 / 0</div> <!-- Initial state -->
+            </div>
+        </header>
 
+        <main id="game-area">
+            <!-- Updated Loading Message Area -->
+            <div id="loading-message">Loading letters... <span id="loading-error" style="color: red; display: none;"></span></div>
+
+            <div id="start-screen" class="hidden">
+                 <p>Ready to test your knowledge?</p>
+                 <button id="start-button">Start Game</button>
+            </div>
+
+            <div id="question-area" class="hidden">
+                <div id="letter-display-container">
+                    <div id="letter-display">؟</div>
+                    <button id="audio-button" class="hidden" aria-label="Play sound">🔊</button>
+                </div>
+                <div id="options-container">
+                    <!-- Options will be dynamically generated here -->
+                </div>
+                <div id="feedback"></div>
+                <div id="example-word-area" class="hidden">
+                    Example: <span id="example-word"></span> (<span id="example-translation"></span>)
+                </div>
+            </div>
+
+             <div id="end-screen" class="hidden">
+                <h2>Challenge Complete!</h2>
+                <p>Your final score: <span id="final-score"></span></p>
+                <p id="end-message"></p>
+                <button id="restart-button">Play Again</button>
+            </div>
+        </main>
+
+        <footer>
+            <p>Learn the Arabic Alphabet</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
