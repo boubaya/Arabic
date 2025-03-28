@@ -4,11 +4,301 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Arabic Alphabet Challenge</title>
-    <link rel="stylesheet" href="styles.css">
     <!-- Recommended: Add a font that supports Arabic well -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic:wght@400;700&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
+    <style>
+        /* --- Start of styles.css content --- */
+
+        /* Basic Reset & Global Styles */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Apply styles directly to the body inside the potential iframe */
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #f0f4f8;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start; /* Align top for better embed view */
+            min-height: 100vh;
+            padding: 15px; /* Adjusted padding for embed */
+            /* Ensure body takes up space */
+            width: 100%;
+            height: 100%;
+        }
+
+        /* Use Noto Naskh Arabic for Arabic text */
+        [lang="ar"], #letter-display, #example-word {
+            font-family: 'Noto Naskh Arabic', serif;
+        }
+
+        .game-container {
+            background-color: #ffffff;
+            border-radius: 15px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+            padding: 20px 25px; /* Adjusted padding */
+            width: 100%;
+            max-width: 600px;
+            text-align: center;
+            margin-top: 15px; /* Add margin-top if needed when embedded */
+            margin-bottom: 15px;
+        }
+
+        header {
+            margin-bottom: 25px; /* Slightly reduced */
+            border-bottom: 1px solid #e0e0e0;
+            padding-bottom: 15px;
+        }
+
+        h1 {
+            color: #0056b3; /* Dark Blue */
+            margin-bottom: 15px;
+            font-size: 1.6rem; /* Slightly smaller for embed */
+        }
+
+        .progress-score {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.9em;
+            color: #555;
+            flex-wrap: wrap; /* Allow wrapping on small screens */
+            gap: 10px;
+        }
+
+        #score, #progress-text {
+             white-space: nowrap;
+        }
+
+        #progress-bar-container {
+            flex-grow: 1;
+            height: 10px;
+            background-color: #e9ecef;
+            border-radius: 5px;
+            margin: 0 10px; /* Reduced margin */
+            overflow: hidden;
+            min-width: 100px; /* Ensure it doesn't collapse */
+        }
+
+        #progress-bar {
+            height: 100%;
+            width: 0%;
+            background-color: #28a745; /* Green */
+            border-radius: 5px;
+            transition: width 0.3s ease-in-out;
+        }
+
+        /* Game Area */
+        #loading-message {
+            font-style: italic;
+            color: #666;
+            padding: 20px 0;
+        }
+        #loading-error { /* Style for the error span */
+            display: block; /* Make it appear on a new line */
+            font-weight: bold;
+            margin-top: 10px;
+            color: red; /* Ensure error is visible */
+        }
+
+
+         #start-screen, #end-screen {
+            padding: 30px 15px; /* Reduced padding */
+        }
+
+        #start-screen p, #end-screen p {
+            font-size: 1.1rem; /* Slightly smaller */
+            margin-bottom: 20px;
+        }
+
+        #start-button, #restart-button {
+            padding: 10px 20px; /* Slightly smaller */
+            font-size: 1rem;
+            background-color: #28a745; /* Green */
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.2s ease;
+        }
+         #start-button:hover, #restart-button:hover {
+            background-color: #218838;
+        }
+
+
+        #question-area {
+            /* Styles applied when visible */
+        }
+
+        #letter-display-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 25px; /* Reduced */
+            position: relative;
+        }
+
+        #letter-display {
+            font-size: 8rem; /* Slightly smaller for embed */
+            font-weight: bold;
+            color: #333;
+            line-height: 1;
+            padding: 15px; /* Reduced */
+            background-color: #e9f5ff;
+            border-radius: 10px;
+            min-width: 120px; /* Ensure some base width */
+            display: inline-block;
+        }
+
+        #audio-button {
+            font-size: 1.4rem; /* Slightly smaller */
+            background: none;
+            border: none;
+            cursor: pointer;
+            margin-left: 10px; /* Reduced */
+            color: #007bff;
+            transition: color 0.2s;
+            padding: 5px;
+        }
+
+        #audio-button:hover {
+            color: #0056b3;
+        }
+
+        #options-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); /* Smaller min size */
+            gap: 10px; /* Reduced gap */
+            margin-bottom: 15px; /* Reduced */
+        }
+
+        .option-button {
+            padding: 12px 8px; /* Adjusted padding */
+            font-size: 1rem; /* Slightly smaller */
+            background-color: #007bff; /* Blue */
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.2s ease, transform 0.1s ease;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            /* Ensure text doesn't wrap weirdly */
+             white-space: normal;
+             word-wrap: break-word;
+        }
+
+        .option-button:hover:not(:disabled) {
+            background-color: #0056b3;
+            transform: translateY(-2px);
+        }
+
+        .option-button:disabled {
+            cursor: not-allowed;
+            opacity: 0.7;
+        }
+
+        /* Feedback Styles */
+        #feedback {
+            min-height: 25px; /* Reduced height */
+            margin-bottom: 10px; /* Reduced */
+            font-weight: bold;
+            font-size: 1em;
+        }
+
+        .correct {
+            color: #28a745; /* Green */
+        }
+
+        .incorrect {
+            color: #dc3545; /* Red */
+        }
+
+        /* Highlight correct/incorrect answers */
+        .option-button.correct-answer {
+            background-color: #28a745 !important; /* Force green */
+            color: white !important;
+            border: 2px solid #1c7430;
+        }
+
+        .option-button.incorrect-answer {
+            background-color: #dc3545 !important; /* Force red */
+            color: white !important;
+            opacity: 0.8;
+        }
+
+        /* Example Word */
+        #example-word-area {
+            margin-top: 15px; /* Reduced */
+            padding-top: 10px;
+            border-top: 1px dashed #ccc;
+            font-size: 1em;
+            color: #555;
+        }
+        #example-word {
+            font-weight: bold;
+            font-size: 1.2em;
+            color: #333;
+        }
+
+
+        #final-score {
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+
+        #end-message {
+            font-style: italic;
+            color: #6c757d;
+            font-size: 1rem;
+        }
+
+        /* Utility Classes */
+        .hidden {
+            display: none !important;
+        }
+
+        footer {
+             margin-top: 25px;
+             font-size: 0.8em;
+             color: #888;
+        }
+
+        /* Responsive Adjustments for Embed */
+        @media (max-width: 480px) {
+             /* body { padding: 10px; } */ /* Let iframe padding handle this */
+             .game-container { padding: 15px; margin-top: 10px; margin-bottom: 10px;}
+             h1 { font-size: 1.4rem; }
+            #letter-display {
+                font-size: 6rem;
+                min-width: 100px;
+                padding: 10px;
+            }
+            .option-button {
+                font-size: 0.9rem;
+                padding: 10px 5px;
+            }
+            #options-container {
+               grid-template-columns: 1fr 1fr; /* Force 2 columns */
+               gap: 8px;
+            }
+            .progress-score { font-size: 0.8em; }
+             #progress-bar-container { margin: 0 5px;}
+        }
+         @media (max-width: 360px) {
+              h1 { font-size: 1.3rem; }
+              #letter-display { font-size: 5rem; min-width: 80px; }
+              .option-button { font-size: 0.85rem; }
+         }
+
+        /* --- End of styles.css content --- */
+    </style>
 </head>
 <body>
     <div class="game-container">
@@ -25,7 +315,7 @@
 
         <main id="game-area">
             <!-- Updated Loading Message Area -->
-            <div id="loading-message">Loading letters... <span id="loading-error" style="color: red; display: none;"></span></div>
+            <div id="loading-message">Loading letters... <span id="loading-error" style="display: none;"></span></div>
 
             <div id="start-screen" class="hidden">
                  <p>Ready to test your knowledge?</p>
@@ -59,6 +349,378 @@
         </footer>
     </div>
 
-    <script src="script.js"></script>
+    <script>
+        // --- Start of script.js content ---
+
+        document.addEventListener('DOMContentLoaded', () => {
+            // --- CONFIGURATION ---
+            // !!! Updated URL based on your provided link !!!
+             // Using the standard raw URL format which is generally more stable
+            const GITHUB_RAW_URL = 'https://raw.githubusercontent.com/boubaya/Arabic/main/Arabic%20Alphabet%20Challenge/arabic_letters.json';
+            const NUM_OPTIONS = 4; // Number of choices including the correct one
+
+            // --- DOM ELEMENTS ---
+            const loadingMessage = document.getElementById('loading-message');
+            const loadingErrorSpan = document.getElementById('loading-error'); // Get the error span
+            const startScreen = document.getElementById('start-screen');
+            const startButton = document.getElementById('start-button');
+            const gameArea = document.getElementById('game-area');
+            const questionArea = document.getElementById('question-area');
+            const letterDisplay = document.getElementById('letter-display');
+            const audioButton = document.getElementById('audio-button');
+            const optionsContainer = document.getElementById('options-container');
+            const feedback = document.getElementById('feedback');
+            const scoreDisplay = document.getElementById('score');
+            const progressBar = document.getElementById('progress-bar');
+            const progressText = document.getElementById('progress-text');
+            const exampleWordArea = document.getElementById('example-word-area');
+            const exampleWordSpan = document.getElementById('example-word');
+            const exampleTranslationSpan = document.getElementById('example-translation');
+            const endScreen = document.getElementById('end-screen');
+            const finalScoreDisplay = document.getElementById('final-score');
+            const endMessage = document.getElementById('end-message');
+            const restartButton = document.getElementById('restart-button');
+
+            // --- GAME STATE ---
+            let allLetters = [];
+            let currentLetters = [];
+            let currentQuestionIndex = 0;
+            let score = 0;
+            let currentCorrectAnswer = null;
+            let currentAudioUrl = null;
+            let audioContext = null; // Initialize as null
+            let audioBufferCache = {}; // Cache for loaded sounds
+            let totalQuestions = 0;
+
+            // --- AUDIO SETUP ---
+            function initAudio() {
+                if (audioContext) return; // Already initialized
+                try {
+                    window.AudioContext = window.AudioContext || window.webkitAudioContext;
+                    if (window.AudioContext) {
+                        audioContext = new AudioContext();
+                        // Resume context if it's suspended (required by some browsers initially)
+                        if (audioContext.state === 'suspended') {
+                            // We'll resume on first play attempt instead, more reliable
+                            // audioContext.resume();
+                        }
+                        console.log("AudioContext initialized successfully.");
+                    } else {
+                        console.warn("Web Audio API is not supported by this browser.");
+                        disableAudioFeatures();
+                    }
+                } catch (e) {
+                    console.error("Could not create AudioContext:", e);
+                    disableAudioFeatures();
+                }
+            }
+
+             function disableAudioFeatures() {
+                audioButton.style.display = 'none'; // Hide button permanently
+                currentAudioUrl = null; // Prevent attempts to play/load
+            }
+
+            async function loadSound(url) {
+                if (!audioContext || !url || url.trim() === "") return null; // Added check for empty URL
+                if (audioBufferCache[url]) return audioBufferCache[url]; // Return cached buffer
+                if (audioBufferCache[url] === null) return null; // Return null if known to fail
+
+                console.log(`Attempting to load audio: ${url}`);
+                try {
+                    const response = await fetch(url, { mode: 'cors' });
+                    if (!response.ok) throw new Error(`HTTP error! status: ${response.status} for ${url}`);
+                    const arrayBuffer = await response.arrayBuffer();
+                    const audioBuffer = await audioContext.decodeAudioData(arrayBuffer);
+                    audioBufferCache[url] = audioBuffer; // Cache success
+                    console.log(`Successfully loaded and decoded audio: ${url}`);
+                    return audioBuffer;
+                } catch (error) {
+                    console.error(`Could not load or decode audio file: ${url}`, error);
+                    audioBufferCache[url] = null; // Cache failure
+                    return null;
+                }
+            }
+
+            function playSound(audioBuffer) {
+                if (!audioContext || !audioBuffer) {
+                    console.log("playSound aborted: No context or buffer.");
+                    return;
+                }
+                // Ensure context is running - attempt to resume if suspended
+                if (audioContext.state === 'suspended') {
+                    audioContext.resume().then(() => {
+                        console.log("AudioContext resumed by playSound.");
+                        actuallyPlaySound(audioBuffer);
+                    }).catch(e => console.error("Error resuming AudioContext during play:", e));
+                } else {
+                    actuallyPlaySound(audioBuffer);
+                }
+            }
+
+            function actuallyPlaySound(audioBuffer) {
+                try {
+                    const source = audioContext.createBufferSource();
+                    source.buffer = audioBuffer;
+                    source.connect(audioContext.destination);
+                    source.start(0);
+                    console.log("Playing sound.");
+                } catch (error) {
+                    console.error("Error playing sound:", error);
+                }
+            }
+
+            // --- GAME LOGIC ---
+
+            function shuffleArray(array) {
+                let currentIndex = array.length, randomIndex;
+                while (currentIndex !== 0) {
+                    randomIndex = Math.floor(Math.random() * currentIndex);
+                    currentIndex--;
+                    [array[currentIndex], array[randomIndex]] = [
+                        array[randomIndex], array[currentIndex]];
+                }
+                return array;
+            }
+
+            async function fetchLetters() {
+                console.log("Attempting to fetch letters from:", GITHUB_RAW_URL);
+                loadingErrorSpan.style.display = 'none'; // Hide previous errors
+                loadingErrorSpan.textContent = '';
+                try {
+                    // Add cache-busting query param
+                    const url = `${GITHUB_RAW_URL}?t=${new Date().getTime()}`;
+                    const response = await fetch(url, { mode: 'cors' });
+
+                    if (!response.ok) {
+                        throw new Error(`Network response was not ok. Status: ${response.status} ${response.statusText}. Check the GitHub URL.`);
+                    }
+                    allLetters = await response.json();
+
+                    if (!Array.isArray(allLetters) || allLetters.length === 0) {
+                         throw new Error("Data loaded, but it's not a valid array or is empty. Check the JSON file format.");
+                    }
+
+                    totalQuestions = allLetters.length;
+                    progressText.textContent = `0 / ${totalQuestions}`; // Update max progress
+
+                    loadingMessage.classList.add('hidden');
+                    startScreen.classList.remove('hidden');
+                    console.log("Letters loaded successfully:", totalQuestions, "items");
+
+                } catch (error) {
+                    console.error("Failed to fetch or parse letters:", error);
+                    // Display user-friendly error
+                    loadingMessage.textContent = `Error loading game data.`; // Keep main message simple
+                    loadingErrorSpan.textContent = `Details: ${error.message}. Please check the GitHub URL is correct, the file exists at that path, and the repository/file is public.`;
+                    loadingErrorSpan.style.display = 'inline'; // Show the detailed error
+                }
+            }
+
+
+            function startGame() {
+                // Initialize AudioContext on first user interaction (start)
+                initAudio();
+
+                score = 0;
+                currentQuestionIndex = 0;
+                if (!allLetters || allLetters.length === 0) {
+                    console.error("Cannot start game, letters not loaded.");
+                    // Show error feedback if trying to start without data
+                     feedback.textContent = "Error: Letter data not loaded. Please reload.";
+                     feedback.className = 'incorrect';
+                     loadingMessage.classList.remove('hidden'); // Show loading message area again
+                     loadingMessage.textContent = "Game data failed to load. Please refresh the page.";
+                    return;
+                }
+                currentLetters = shuffleArray([...allLetters]);
+                totalQuestions = currentLetters.length; // Just in case
+
+                startScreen.classList.add('hidden');
+                endScreen.classList.add('hidden');
+                questionArea.classList.remove('hidden');
+                updateScoreAndProgress(); // Initialize display
+
+                // Preload first audio
+                 if(currentLetters.length > 0 && currentLetters[0].audio_url && audioContext) {
+                    loadSound(currentLetters[0].audio_url);
+                 }
+
+                displayQuestion();
+            }
+
+            function displayQuestion() {
+                if (currentQuestionIndex >= totalQuestions) {
+                    endGame();
+                    return;
+                }
+
+                feedback.textContent = '';
+                feedback.className = '';
+                exampleWordArea.classList.add('hidden');
+                optionsContainer.innerHTML = ''; // Clear previous options
+
+                const currentLetterData = currentLetters[currentQuestionIndex];
+                letterDisplay.textContent = currentLetterData.letter;
+                letterDisplay.lang = "ar";
+                currentCorrectAnswer = currentLetterData.name; // Or use transliteration: currentLetterData.transliteration
+                const answerKey = 'name'; // Change to 'transliteration' if needed
+
+                currentAudioUrl = currentLetterData.audio_url;
+
+                // Prepare options
+                let options = [currentCorrectAnswer];
+                let distractors = allLetters
+                    .map(l => l[answerKey])
+                    .filter(val => val && val !== currentCorrectAnswer); // Ensure value exists and isn't the answer
+                shuffleArray(distractors);
+
+                let distractorIndex = 0;
+                while (options.length < NUM_OPTIONS && distractorIndex < distractors.length) {
+                    if (!options.includes(distractors[distractorIndex])) {
+                        options.push(distractors[distractorIndex]);
+                    }
+                    distractorIndex++;
+                }
+                // Fill remaining spots if not enough unique distractors
+                while (options.length < NUM_OPTIONS && distractors.length > 0) {
+                     // Use modulo to loop through available distractors if needed
+                     options.push(distractors[options.length % distractors.length]);
+                }
+                 // Final fallback if distractors is empty (shouldn't happen with >4 letters)
+                 while (options.length < NUM_OPTIONS) {
+                      options.push(`Option ${options.length + 1}`);
+                 }
+
+                options = shuffleArray(options);
+
+                // Display options
+                options.forEach(optionText => {
+                    const button = document.createElement('button');
+                    button.textContent = optionText;
+                    button.classList.add('option-button');
+                    button.addEventListener('click', () => handleAnswer(optionText, button));
+                    optionsContainer.appendChild(button);
+                });
+
+                // Handle Audio Button visibility
+                 // Also check url is not empty string
+                if (currentAudioUrl && currentAudioUrl.trim() !== "" && audioContext) {
+                    audioButton.classList.remove('hidden');
+                    loadSound(currentAudioUrl); // Preload optimistically
+                } else {
+                    audioButton.classList.add('hidden');
+                }
+            }
+
+            async function handleAnswer(selectedAnswer, button) {
+                const buttons = optionsContainer.querySelectorAll('.option-button');
+                buttons.forEach(btn => btn.disabled = true);
+
+                const isCorrect = selectedAnswer === currentCorrectAnswer;
+                const currentLetterData = currentLetters[currentQuestionIndex]; // Get data for example word
+
+                if (isCorrect) {
+                    score++;
+                    feedback.textContent = 'Correct!';
+                    feedback.className = 'correct';
+                    button.classList.add('correct-answer');
+                } else {
+                    feedback.textContent = `Incorrect. The answer is ${currentCorrectAnswer}.`;
+                    feedback.className = 'incorrect';
+                    button.classList.add('incorrect-answer');
+                    buttons.forEach(btn => {
+                        if (btn.textContent === currentCorrectAnswer) {
+                            btn.classList.add('correct-answer');
+                        }
+                    });
+                }
+
+                // Show example word if available
+                if (currentLetterData.example_word && currentLetterData.example_translation) {
+                     exampleWordSpan.textContent = currentLetterData.example_word;
+                     exampleWordSpan.lang = "ar";
+                     exampleTranslationSpan.textContent = currentLetterData.example_translation;
+                     exampleWordArea.classList.remove('hidden');
+                }
+
+                // Update score display *before* timeout
+                 updateScoreAndProgress(true);
+
+                // Wait, then move to next question
+                setTimeout(() => {
+                    currentQuestionIndex++;
+                    // Update progress *before* displaying next question
+                     updateScoreAndProgress(false);
+                    displayQuestion();
+                }, isCorrect ? 1500 : 2500);
+            }
+
+            function updateScoreAndProgress(answerSubmitted = false) {
+                scoreDisplay.textContent = `Score: ${score}`;
+                 // Display progress based on the *next* question index unless an answer was just submitted
+                 const displayIndex = answerSubmitted ? currentQuestionIndex + 1 : currentQuestionIndex;
+                const progressPercent = totalQuestions > 0 ? (displayIndex / totalQuestions) * 100 : 0;
+                progressBar.style.width = `${progressPercent}%`;
+                progressText.textContent = `${displayIndex} / ${totalQuestions}`;
+            }
+
+             function getEndGameMessage(finalScore, total) {
+                const percentage = total > 0 ? (finalScore / total) * 100 : 0;
+                if (percentage === 100) return "Excellent! You know them all!";
+                if (percentage >= 80) return "Great job! Very impressive!";
+                if (percentage >= 60) return "Good work! Keep practicing!";
+                if (percentage >= 40) return "Not bad, but more practice will help!";
+                return "Keep trying! Practice makes perfect.";
+            }
+
+            function endGame() {
+                questionArea.classList.add('hidden');
+                endScreen.classList.remove('hidden');
+                finalScoreDisplay.textContent = `${score} / ${totalQuestions}`;
+                endMessage.textContent = getEndGameMessage(score, totalQuestions);
+                // Ensure progress bar shows full completion
+                progressBar.style.width = `100%`;
+                progressText.textContent = `${totalQuestions} / ${totalQuestions}`;
+            }
+
+            // --- EVENT LISTENERS ---
+            startButton.addEventListener('click', startGame);
+            restartButton.addEventListener('click', startGame);
+
+            audioButton.addEventListener('click', async () => {
+                console.log("Audio button clicked.");
+                // Ensure context is active before playing sound - attempt resume
+                if (audioContext && audioContext.state === 'suspended') {
+                    await audioContext.resume().catch(e => console.error("Resume failed:", e));
+                }
+
+                 // Check URL again, just in case
+                if (currentAudioUrl && currentAudioUrl.trim() !== "" && audioContext) {
+                    try {
+                        const buffer = await loadSound(currentAudioUrl); // Get buffer (might be cached)
+                        if (buffer) {
+                            playSound(buffer);
+                        } else {
+                            console.warn("Audio buffer not available for playback (might have failed load).");
+                            // Optionally provide visual feedback
+                            feedback.textContent = "Audio for this letter could not be played.";
+                            feedback.className = 'incorrect';
+                        }
+                    } catch (error) {
+                        console.error("Error playing audio on button click:", error);
+                    }
+                } else {
+                    console.log("Cannot play audio: No URL or no Audio Context.")
+                }
+            });
+
+            // --- INITIALIZATION ---
+            fetchLetters(); // Fetch data when the DOM is ready (already wrapped in DOMContentLoaded)
+
+        }); // End DOMContentLoaded
+
+        // --- End of script.js content ---
+    </script>
+
 </body>
 </html>
