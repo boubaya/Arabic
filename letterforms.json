@@ -1,38 +1,62 @@
 [
   {
-    "word": "كتاب",
-    "missingLetter": "ت",
-    "choices": ["ـتـ", "ت", "ـت", "تـ"],
-    "correctAnswer": "ـتـ"
+    "word": "...الـ...ـب",
+    "missingLetterIndex": 4,
+    "correctLetter": "أ",
+    "forms": {
+      "initial": "أ",
+      "medial": "ـأـ",
+      "final": "أـ",
+      "independent": "أ"
+    },
+    "correctFormType": "medial"
   },
   {
-    "word": "سلام",
-    "missingLetter": "س",
-    "choices": ["سـ", "س", "ـسـ", "ـس"],
-    "correctAnswer": "ـسـ"
-  },
-  {
-    "word": "عين",
-    "missingLetter": "ع",
-    "choices": ["ع", "ـعـ", "ـع", "عـ"],
-    "correctAnswer": "عـ"
-  },
-  {
-    "word": "باب",
-    "missingLetter": "ب",
-    "choices": ["ب", "ـبـ", "ـب", "بـ"],
-    "correctAnswer": "بـ"
+    "word": "كـ...ـاب",
+    "missingLetterIndex": 2,
+    "correctLetter": "ت",
+    "forms": {
+      "initial": "تـ",
+      "medial": "ـتـ",
+      "final": "ـت",
+      "independent": "ت"
+    },
+    "correctFormType": "medial"
   },
     {
-    "word": "قلب",
-    "missingLetter": "ق",
-    "choices": ["ق", "ـقـ", "ـق", "قـ"],
-    "correctAnswer": "قـ"
+    "word": "كتـ...ـا",
+    "missingLetterIndex": 3,
+    "correctLetter": "ب",
+    "forms": {
+      "initial": "بـ",
+      "medial": "ـبـ",
+      "final": "ـب",
+      "independent": "ب"
+    },
+    "correctFormType": "medial"
   },
     {
-    "word": "أرز",
-    "missingLetter": "أ",
-    "choices": ["أ", "ـأـ", "ـأ", "أـ"],
-    "correctAnswer": "أ"
+    "word": "...ـلام",
+    "missingLetterIndex": 0,
+    "correctLetter": "س",
+    "forms": {
+      "initial": "سـ",
+      "medial": "ـسـ",
+      "final": "ـس",
+      "independent": "س"
+    },
+    "correctFormType": "initial"
+  },
+  {
+    "word": "حـ...ـيب",
+    "missingLetterIndex": 2,
+    "correctLetter": "ب",
+    "forms": {
+      "initial": "بـ",
+      "medial": "ـبـ",
+      "final": "ـب",
+      "independent": "ب"
+    },
+    "correctFormType": "medial"
   }
 ]
