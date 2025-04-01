@@ -26,7 +26,7 @@
     "solved": false
   },
   {
-    "word": "كتـ...ـا",
+    "word": "با...",
     "missingLetterIndex": 3,
     "correctLetter": "ب",
     "forms": {
@@ -35,7 +35,7 @@
       "final": "ـب",
       "independent": "ب"
     },
-    "correctFormType": "medial",
+    "correctFormType": "independent",
     "solved": false
   },
   {
