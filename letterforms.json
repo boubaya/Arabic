@@ -1,18 +1,5 @@
 [
   {
-    "word": "...الـ...ـب",
-    "missingLetterIndex": 4,
-    "correctLetter": "أ",
-    "forms": {
-      "initial": "أ",
-      "medial": "ـأـ",
-      "final": "أـ",
-      "independent": "أ"
-    },
-    "correctFormType": "medial",
-    "solved": false
-  },
-  {
     "word": "كـ...ـاب",
     "missingLetterIndex": 2,
     "correctLetter": "ت",
