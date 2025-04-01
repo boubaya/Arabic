@@ -1,0 +1,4 @@
+[
+  { "word": "مرحبا...", "forms": { "initial": "م", "medial": "مـ", "final": "ـم", "isolated": "م" }, "correctFormType": "initial", "missingLetterIndex": 0 },
+  { "word": "سلام...", "forms": { "initial": "س", "medial": "سـ", "final": "ـس", "isolated": "س" }, "correctFormType": "initial", "missingLetterIndex": 0 }
+]
