@@ -63,4 +63,35 @@ function showQuestion(question) {
 }
 
 function selectAnswer(index) {
-   
+    const correctIndex = questions[currentQuestionIndex].correct;
+    const answerButtons = document.querySelectorAll('.answer-button');
+
+    answerButtons.forEach((button, i) => {
+        button.disabled = true; // Disable all buttons after an answer is selected
+        if (i === correctIndex) {
+            button.style.backgroundColor = 'green'; // Highlight correct answer in green
+        } else if (i === index) {
+            button.style.backgroundColor = 'red';   // Highlight selected incorrect answer in red
+        } else {
+            button.style.backgroundColor = 'lightgray'; // Light gray for other unselected answers
+        }
+    });
+
+    if (index === correctIndex) {
+        score++;
+    }
+
+    nextButton.classList.remove('hidden');
+}
+
+function showResult() {
+    quizContainer.classList.add('hidden');
+    resultContainer.classList.remove('hidden');
+    scoreElement.innerText = `حصلت على ${score} من ${questions.length} أسئلة صحيحة!`;
+}
+
+function restartGame() {
+    startButton.classList.remove('hidden');
+    resultContainer.classList.add('hidden');
+    startGame();  // Restart the game properly
+}
