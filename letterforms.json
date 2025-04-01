@@ -1,1 +1,38 @@
-
+[
+  {
+    "word": "كتاب",
+    "missingLetter": "ت",
+    "choices": ["ـتـ", "ت", "ـت", "تـ"],
+    "correctAnswer": "ـتـ"
+  },
+  {
+    "word": "سلام",
+    "missingLetter": "س",
+    "choices": ["سـ", "س", "ـسـ", "ـس"],
+    "correctAnswer": "ـسـ"
+  },
+  {
+    "word": "عين",
+    "missingLetter": "ع",
+    "choices": ["ع", "ـعـ", "ـع", "عـ"],
+    "correctAnswer": "عـ"
+  },
+  {
+    "word": "باب",
+    "missingLetter": "ب",
+    "choices": ["ب", "ـبـ", "ـب", "بـ"],
+    "correctAnswer": "بـ"
+  },
+    {
+    "word": "قلب",
+    "missingLetter": "ق",
+    "choices": ["ق", "ـقـ", "ـق", "قـ"],
+    "correctAnswer": "قـ"
+  },
+    {
+    "word": "أرز",
+    "missingLetter": "أ",
+    "choices": ["أ", "ـأـ", "ـأ", "أـ"],
+    "correctAnswer": "أ"
+  }
+]
